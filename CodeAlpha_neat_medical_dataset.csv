@@ -1,0 +1,1889 @@
+Age,Gender,Blood Pressure,Cholesterol,Glucose Level,BMI,Symptoms,Medical History,Blood Test Results,Disease
+63,Male,145,233,High,24.7,Dizziness,No Major History,Fixed Defect,Yes
+37,Male,130,250,Normal,34.2,Fatigue,No Major History,Reversible Defect,Yes
+41,Female,130,204,Normal,30.6,Shortness of Breath,No Major History,Reversible Defect,Yes
+56,Male,120,236,Normal,28.4,Shortness of Breath,No Major History,Reversible Defect,Yes
+57,Female,120,354,Normal,21.1,Chest Pain,Cardiac History,Reversible Defect,Yes
+57,Male,140,192,Normal,21.1,Chest Pain,No Major History,Fixed Defect,Yes
+56,Female,140,294,Normal,19.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+44,Male,120,263,Normal,32.8,Shortness of Breath,No Major History,Abnormal,Yes
+52,Male,172,199,High,28.4,Fatigue,No Major History,Abnormal,Yes
+57,Male,150,168,Normal,30.2,Fatigue,No Major History,Reversible Defect,Yes
+54,Male,140,239,Normal,18.8,Chest Pain,No Major History,Reversible Defect,Yes
+48,Female,130,275,Normal,34.5,Fatigue,No Major History,Reversible Defect,Yes
+49,Male,130,266,Normal,32.2,Shortness of Breath,No Major History,Reversible Defect,Yes
+64,Male,110,211,Normal,22.0,Dizziness,Cardiac History,Reversible Defect,Yes
+58,Female,150,283,High,21.5,Dizziness,No Major History,Reversible Defect,Yes
+50,Female,120,219,Normal,21.5,Fatigue,No Major History,Reversible Defect,Yes
+58,Female,120,340,Normal,23.5,Fatigue,No Major History,Reversible Defect,Yes
+66,Female,150,226,Normal,27.2,Dizziness,No Major History,Reversible Defect,Yes
+43,Male,150,247,Normal,25.6,Chest Pain,No Major History,Reversible Defect,Yes
+69,Female,140,239,Normal,23.3,Dizziness,No Major History,Reversible Defect,Yes
+59,Male,135,234,Normal,28.6,Chest Pain,No Major History,Abnormal,Yes
+44,Male,130,233,Normal,20.8,Fatigue,Cardiac History,Reversible Defect,Yes
+42,Male,140,226,Normal,23.3,Chest Pain,No Major History,Reversible Defect,Yes
+61,Male,150,243,High,24.5,Fatigue,Cardiac History,Reversible Defect,Yes
+40,Male,140,199,Normal,26.0,Dizziness,Cardiac History,Abnormal,Yes
+71,Female,160,302,Normal,31.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+59,Male,150,212,High,21.8,Fatigue,No Major History,Reversible Defect,Yes
+51,Male,110,175,Normal,27.0,Fatigue,No Major History,Reversible Defect,Yes
+65,Female,140,417,High,28.3,Fatigue,No Major History,Reversible Defect,Yes
+53,Male,130,197,High,19.3,Fatigue,No Major History,Reversible Defect,Yes
+41,Female,105,198,Normal,28.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+65,Male,120,177,Normal,21.3,Chest Pain,No Major History,Abnormal,Yes
+44,Male,130,219,Normal,19.6,Shortness of Breath,No Major History,Reversible Defect,Yes
+54,Male,125,273,Normal,34.2,Fatigue,No Major History,Reversible Defect,Yes
+51,Male,125,213,Normal,34.4,Dizziness,Cardiac History,Reversible Defect,Yes
+46,Female,142,177,Normal,31.8,Fatigue,Cardiac History,Reversible Defect,Yes
+54,Female,135,304,High,23.5,Fatigue,No Major History,Reversible Defect,Yes
+54,Male,150,232,Normal,20.1,Fatigue,No Major History,Abnormal,Yes
+65,Female,155,269,Normal,29.8,Fatigue,No Major History,Reversible Defect,Yes
+65,Female,160,360,Normal,25.8,Fatigue,No Major History,Reversible Defect,Yes
+51,Female,140,308,Normal,20.5,Fatigue,No Major History,Reversible Defect,Yes
+48,Male,130,245,Normal,26.7,Shortness of Breath,No Major History,Reversible Defect,Yes
+45,Male,104,208,Normal,19.1,Chest Pain,Cardiac History,Reversible Defect,Yes
+53,Female,130,264,Normal,33.5,Chest Pain,No Major History,Reversible Defect,Yes
+39,Male,140,321,Normal,22.8,Fatigue,No Major History,Reversible Defect,Yes
+52,Male,120,325,Normal,29.4,Shortness of Breath,No Major History,Reversible Defect,Yes
+44,Male,140,235,Normal,23.6,Fatigue,No Major History,Reversible Defect,Yes
+47,Male,138,257,Normal,27.1,Fatigue,No Major History,Reversible Defect,Yes
+53,Female,128,216,Normal,27.5,Fatigue,No Major History,Normal,Yes
+53,Female,138,234,Normal,21.6,Chest Pain,No Major History,Reversible Defect,Yes
+51,Female,130,256,Normal,34.5,Fatigue,No Major History,Reversible Defect,Yes
+66,Male,120,302,Normal,31.3,Chest Pain,No Major History,Reversible Defect,Yes
+62,Male,130,231,Normal,34.0,Fatigue,No Major History,Abnormal,Yes
+44,Female,108,141,Normal,33.3,Fatigue,No Major History,Reversible Defect,Yes
+63,Female,135,252,Normal,28.4,Fatigue,No Major History,Reversible Defect,Yes
+52,Male,134,201,Normal,33.7,Shortness of Breath,No Major History,Reversible Defect,Yes
+48,Male,122,222,Normal,20.0,Chest Pain,No Major History,Reversible Defect,Yes
+45,Male,115,260,Normal,21.7,Chest Pain,No Major History,Reversible Defect,Yes
+34,Male,118,182,Normal,19.2,Dizziness,No Major History,Reversible Defect,Yes
+57,Female,128,303,Normal,23.9,Chest Pain,No Major History,Reversible Defect,Yes
+71,Female,110,265,High,24.9,Fatigue,No Major History,Reversible Defect,Yes
+54,Male,108,309,Normal,23.0,Shortness of Breath,No Major History,Abnormal,Yes
+52,Male,118,186,Normal,32.2,Dizziness,No Major History,Fixed Defect,Yes
+41,Male,135,203,Normal,24.4,Shortness of Breath,No Major History,Fixed Defect,Yes
+58,Male,140,211,High,23.1,Fatigue,No Major History,Reversible Defect,Yes
+35,Female,138,183,Normal,27.5,Chest Pain,No Major History,Reversible Defect,Yes
+51,Male,100,222,Normal,20.8,Fatigue,Cardiac History,Reversible Defect,Yes
+45,Female,130,234,Normal,31.7,Shortness of Breath,No Major History,Reversible Defect,Yes
+44,Male,120,220,Normal,19.7,Shortness of Breath,No Major History,Reversible Defect,Yes
+62,Female,124,209,Normal,34.8,Chest Pain,No Major History,Reversible Defect,Yes
+54,Male,120,258,Normal,31.2,Fatigue,No Major History,Abnormal,Yes
+51,Male,94,227,Normal,21.8,Fatigue,Cardiac History,Abnormal,Yes
+29,Male,130,204,Normal,18.6,Shortness of Breath,No Major History,Reversible Defect,Yes
+51,Male,140,261,Normal,32.0,Chest Pain,Cardiac History,Reversible Defect,Yes
+43,Female,122,213,Normal,30.2,Fatigue,No Major History,Reversible Defect,Yes
+55,Female,135,250,Normal,30.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+51,Male,125,245,High,31.2,Fatigue,No Major History,Reversible Defect,Yes
+59,Male,140,221,Normal,19.7,Shortness of Breath,Cardiac History,Reversible Defect,Yes
+52,Male,128,205,High,24.4,Shortness of Breath,No Major History,Reversible Defect,Yes
+58,Male,105,240,Normal,20.4,Fatigue,Cardiac History,Abnormal,Yes
+41,Male,112,250,Normal,32.7,Fatigue,No Major History,Reversible Defect,Yes
+45,Male,128,308,Normal,28.8,Shortness of Breath,No Major History,Reversible Defect,Yes
+60,Female,102,318,Normal,24.0,Fatigue,No Major History,Reversible Defect,Yes
+52,Male,152,298,High,19.5,Dizziness,No Major History,Abnormal,Yes
+42,Female,102,265,Normal,23.6,Chest Pain,No Major History,Reversible Defect,Yes
+67,Female,115,564,Normal,23.9,Fatigue,No Major History,Abnormal,Yes
+68,Male,118,277,Normal,30.5,Fatigue,No Major History,Abnormal,Yes
+46,Male,101,197,High,29.0,Shortness of Breath,No Major History,Abnormal,Yes
+54,Female,110,214,Normal,33.1,Fatigue,No Major History,Reversible Defect,Yes
+58,Female,100,248,Normal,26.3,Chest Pain,No Major History,Reversible Defect,Yes
+48,Male,124,255,High,20.5,Fatigue,No Major History,Reversible Defect,Yes
+57,Male,132,207,Normal,30.3,Chest Pain,Cardiac History,Abnormal,Yes
+52,Male,138,223,Normal,31.1,Fatigue,No Major History,Reversible Defect,Yes
+54,Female,132,288,High,27.8,Shortness of Breath,Cardiac History,Reversible Defect,Yes
+45,Female,112,160,Normal,31.2,Shortness of Breath,No Major History,Reversible Defect,Yes
+53,Male,142,226,Normal,26.6,Chest Pain,Cardiac History,Abnormal,Yes
+62,Female,140,394,Normal,27.1,Chest Pain,No Major History,Reversible Defect,Yes
+52,Male,108,233,High,25.6,Chest Pain,No Major History,Abnormal,Yes
+43,Male,130,315,Normal,18.9,Fatigue,No Major History,Reversible Defect,Yes
+53,Male,130,246,High,20.3,Fatigue,No Major History,Reversible Defect,Yes
+42,Male,148,244,Normal,19.0,Dizziness,No Major History,Reversible Defect,Yes
+59,Male,178,270,Normal,29.0,Dizziness,No Major History,Abnormal,Yes
+63,Female,140,195,Normal,23.7,Shortness of Breath,No Major History,Reversible Defect,Yes
+42,Male,120,240,High,26.9,Fatigue,No Major History,Abnormal,Yes
+50,Male,129,196,Normal,33.5,Fatigue,No Major History,Reversible Defect,Yes
+68,Female,120,211,Normal,22.6,Fatigue,No Major History,Reversible Defect,Yes
+69,Male,160,234,High,25.3,Dizziness,No Major History,Reversible Defect,Yes
+45,Female,138,236,Normal,31.0,Chest Pain,Cardiac History,Reversible Defect,Yes
+50,Female,120,244,Normal,22.3,Shortness of Breath,No Major History,Reversible Defect,Yes
+50,Female,110,254,Normal,19.8,Chest Pain,No Major History,Reversible Defect,Yes
+64,Female,180,325,Normal,23.3,Chest Pain,Cardiac History,Reversible Defect,Yes
+57,Male,150,126,High,21.2,Fatigue,No Major History,Abnormal,Yes
+64,Female,140,313,Normal,33.8,Fatigue,No Major History,Abnormal,Yes
+43,Male,110,211,Normal,31.8,Chest Pain,No Major History,Abnormal,Yes
+55,Male,130,262,Normal,29.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+37,Female,120,215,Normal,32.9,Fatigue,No Major History,Reversible Defect,Yes
+41,Male,130,214,Normal,31.8,Fatigue,No Major History,Reversible Defect,Yes
+56,Male,120,193,Normal,21.6,Dizziness,No Major History,Abnormal,Yes
+46,Female,105,204,Normal,33.2,Shortness of Breath,No Major History,Reversible Defect,Yes
+46,Female,138,243,Normal,27.4,Chest Pain,Cardiac History,Reversible Defect,Yes
+64,Female,130,303,Normal,31.8,Chest Pain,No Major History,Reversible Defect,Yes
+59,Male,138,271,Normal,33.3,Chest Pain,No Major History,Reversible Defect,Yes
+41,Female,112,268,Normal,23.7,Fatigue,Cardiac History,Reversible Defect,Yes
+54,Female,108,267,Normal,20.3,Fatigue,No Major History,Reversible Defect,Yes
+39,Female,94,199,Normal,22.3,Fatigue,No Major History,Reversible Defect,Yes
+34,Female,118,210,Normal,25.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+47,Male,112,204,Normal,32.0,Chest Pain,No Major History,Reversible Defect,Yes
+67,Female,152,277,Normal,32.7,Fatigue,No Major History,Reversible Defect,Yes
+52,Female,136,196,Normal,18.6,Fatigue,No Major History,Reversible Defect,Yes
+74,Female,120,269,Normal,26.9,Shortness of Breath,Cardiac History,Reversible Defect,Yes
+54,Female,160,201,Normal,25.4,Fatigue,No Major History,Reversible Defect,Yes
+49,Female,134,271,Normal,22.2,Shortness of Breath,No Major History,Reversible Defect,Yes
+42,Male,120,295,Normal,20.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+41,Male,110,235,Normal,24.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+41,Female,126,306,Normal,34.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+49,Female,130,269,Normal,23.8,Chest Pain,No Major History,Reversible Defect,Yes
+60,Female,120,178,High,27.1,Fatigue,No Major History,Reversible Defect,Yes
+62,Male,128,208,High,30.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+57,Male,110,201,Normal,24.5,Chest Pain,Cardiac History,Fixed Defect,Yes
+64,Male,128,263,Normal,34.5,Chest Pain,Cardiac History,Abnormal,Yes
+51,Female,120,295,Normal,34.4,Fatigue,No Major History,Reversible Defect,Yes
+43,Male,115,303,Normal,22.7,Chest Pain,No Major History,Reversible Defect,Yes
+42,Female,120,209,Normal,26.7,Fatigue,No Major History,Reversible Defect,Yes
+67,Female,106,223,Normal,23.5,Chest Pain,No Major History,Reversible Defect,Yes
+76,Female,140,197,Normal,23.2,Fatigue,No Major History,Reversible Defect,Yes
+70,Male,156,245,Normal,19.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+44,Female,118,242,Normal,28.6,Fatigue,No Major History,Reversible Defect,Yes
+60,Female,150,240,Normal,26.8,Dizziness,No Major History,Reversible Defect,Yes
+44,Male,120,226,Normal,19.3,Fatigue,No Major History,Reversible Defect,Yes
+42,Male,130,180,Normal,23.1,Fatigue,No Major History,Reversible Defect,Yes
+66,Male,160,228,Normal,33.5,Chest Pain,No Major History,Fixed Defect,Yes
+71,Female,112,149,Normal,22.5,Chest Pain,No Major History,Reversible Defect,Yes
+64,Male,170,227,Normal,20.9,Dizziness,No Major History,Abnormal,Yes
+66,Female,146,278,Normal,26.6,Fatigue,No Major History,Reversible Defect,Yes
+39,Female,138,220,Normal,34.8,Fatigue,No Major History,Reversible Defect,Yes
+58,Female,130,197,Normal,22.5,Chest Pain,No Major History,Reversible Defect,Yes
+47,Male,130,253,Normal,29.6,Fatigue,No Major History,Reversible Defect,Yes
+35,Male,122,192,Normal,31.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+58,Male,125,220,Normal,22.4,Shortness of Breath,No Major History,Abnormal,Yes
+56,Male,130,221,Normal,30.5,Shortness of Breath,No Major History,Abnormal,Yes
+56,Male,120,240,Normal,24.6,Shortness of Breath,No Major History,Reversible Defect,Yes
+55,Female,132,342,Normal,28.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+41,Male,120,157,Normal,29.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+38,Male,138,175,Normal,27.3,Fatigue,No Major History,Reversible Defect,Yes
+38,Male,138,175,Normal,20.0,Fatigue,No Major History,Reversible Defect,Yes
+67,Male,160,286,Normal,32.3,Chest Pain,Cardiac History,Reversible Defect,No
+67,Male,120,229,Normal,23.8,Chest Pain,Cardiac History,Abnormal,No
+62,Female,140,268,Normal,21.6,Chest Pain,No Major History,Reversible Defect,No
+63,Male,130,254,Normal,19.2,Chest Pain,No Major History,Abnormal,No
+53,Male,140,203,High,28.2,Chest Pain,Cardiac History,Abnormal,No
+56,Male,130,256,High,29.7,Fatigue,Cardiac History,Fixed Defect,No
+48,Male,110,229,Normal,18.8,Shortness of Breath,No Major History,Abnormal,No
+58,Male,120,284,Normal,26.9,Shortness of Breath,No Major History,Reversible Defect,No
+58,Male,132,224,Normal,22.2,Fatigue,No Major History,Abnormal,No
+60,Male,130,206,Normal,29.1,Chest Pain,Cardiac History,Abnormal,No
+40,Male,110,167,Normal,21.4,Chest Pain,Cardiac History,Abnormal,No
+60,Male,117,230,High,29.9,Chest Pain,Cardiac History,Abnormal,No
+64,Male,140,335,Normal,24.9,Fatigue,No Major History,Reversible Defect,No
+43,Male,120,177,Normal,34.0,Chest Pain,Cardiac History,Abnormal,No
+57,Male,150,276,Normal,20.8,Chest Pain,Cardiac History,Fixed Defect,No
+55,Male,132,353,Normal,24.1,Chest Pain,Cardiac History,Abnormal,No
+65,Female,150,225,Normal,20.4,Chest Pain,No Major History,Abnormal,No
+61,Female,130,330,Normal,33.8,Chest Pain,No Major History,Reversible Defect,No
+58,Male,112,230,Normal,33.0,Fatigue,No Major History,Abnormal,No
+50,Male,150,243,Normal,22.8,Chest Pain,No Major History,Abnormal,No
+44,Male,112,290,Normal,29.4,Chest Pain,No Major History,Reversible Defect,No
+60,Male,130,253,Normal,32.0,Chest Pain,Cardiac History,Abnormal,No
+54,Male,124,266,Normal,27.7,Chest Pain,Cardiac History,Abnormal,No
+50,Male,140,233,Normal,27.2,Fatigue,No Major History,Abnormal,No
+41,Male,110,172,Normal,22.5,Chest Pain,No Major History,Abnormal,No
+51,Female,130,305,Normal,20.0,Chest Pain,Cardiac History,Abnormal,No
+58,Male,128,216,Normal,33.3,Chest Pain,Cardiac History,Abnormal,No
+54,Male,120,188,Normal,33.4,Chest Pain,No Major History,Abnormal,No
+60,Male,145,282,Normal,28.9,Chest Pain,Cardiac History,Abnormal,No
+60,Male,140,185,Normal,24.1,Fatigue,No Major History,Reversible Defect,No
+59,Male,170,326,Normal,24.3,Chest Pain,Cardiac History,Abnormal,No
+46,Male,150,231,Normal,30.5,Fatigue,No Major History,Reversible Defect,No
+67,Male,125,254,High,33.3,Chest Pain,No Major History,Abnormal,No
+62,Male,120,267,Normal,33.1,Chest Pain,Cardiac History,Abnormal,No
+65,Male,110,248,Normal,31.4,Chest Pain,No Major History,Fixed Defect,No
+44,Male,110,197,Normal,29.1,Chest Pain,No Major History,Reversible Defect,No
+60,Male,125,258,Normal,19.9,Chest Pain,Cardiac History,Abnormal,No
+58,Male,150,270,Normal,21.2,Chest Pain,Cardiac History,Abnormal,No
+68,Male,180,274,High,33.3,Fatigue,Cardiac History,Abnormal,No
+62,Female,160,164,Normal,28.5,Chest Pain,No Major History,Abnormal,No
+52,Male,128,255,Normal,18.7,Chest Pain,Cardiac History,Abnormal,No
+59,Male,110,239,Normal,20.2,Chest Pain,Cardiac History,Abnormal,No
+60,Female,150,258,Normal,29.4,Chest Pain,No Major History,Abnormal,No
+49,Male,120,188,Normal,18.6,Fatigue,No Major History,Abnormal,No
+59,Male,140,177,Normal,21.2,Chest Pain,Cardiac History,Abnormal,No
+57,Male,128,229,Normal,27.6,Fatigue,No Major History,Abnormal,No
+61,Male,120,260,Normal,29.9,Chest Pain,Cardiac History,Abnormal,No
+39,Male,118,219,Normal,29.3,Chest Pain,No Major History,Abnormal,No
+61,Female,145,307,Normal,22.2,Chest Pain,Cardiac History,Abnormal,No
+56,Male,125,249,High,30.3,Chest Pain,Cardiac History,Reversible Defect,No
+43,Female,132,341,High,22.4,Chest Pain,Cardiac History,Abnormal,No
+62,Female,130,263,Normal,23.9,Fatigue,No Major History,Abnormal,No
+63,Male,130,330,High,30.8,Chest Pain,Cardiac History,Abnormal,No
+65,Male,135,254,Normal,29.2,Chest Pain,No Major History,Abnormal,No
+48,Male,130,256,High,32.5,Chest Pain,Cardiac History,Abnormal,No
+63,Female,150,407,Normal,29.4,Chest Pain,No Major History,Abnormal,No
+55,Male,140,217,Normal,27.9,Chest Pain,Cardiac History,Abnormal,No
+65,Male,138,282,High,20.0,Dizziness,No Major History,Reversible Defect,No
+56,Female,200,288,High,24.6,Chest Pain,Cardiac History,Abnormal,No
+54,Male,110,239,Normal,22.9,Chest Pain,Cardiac History,Abnormal,No
+70,Male,145,174,Normal,22.5,Chest Pain,Cardiac History,Abnormal,No
+62,Male,120,281,Normal,34.6,Shortness of Breath,No Major History,Abnormal,No
+35,Male,120,198,Normal,25.0,Chest Pain,Cardiac History,Abnormal,No
+59,Male,170,288,Normal,33.2,Dizziness,No Major History,Abnormal,No
+64,Male,125,309,Normal,28.9,Fatigue,Cardiac History,Abnormal,No
+47,Male,108,243,Normal,31.6,Fatigue,No Major History,Reversible Defect,No
+57,Male,165,289,High,26.8,Chest Pain,No Major History,Abnormal,No
+55,Male,160,289,Normal,28.0,Chest Pain,Cardiac History,Abnormal,No
+64,Male,120,246,Normal,26.6,Chest Pain,Cardiac History,Reversible Defect,No
+70,Male,130,322,Normal,21.7,Chest Pain,No Major History,Reversible Defect,No
+51,Male,140,299,Normal,30.4,Chest Pain,Cardiac History,Abnormal,No
+58,Male,125,300,Normal,23.1,Chest Pain,No Major History,Abnormal,No
+60,Male,140,293,Normal,18.9,Chest Pain,No Major History,Abnormal,No
+77,Male,125,304,Normal,29.2,Chest Pain,Cardiac History,Reversible Defect,No
+35,Male,126,282,Normal,21.4,Chest Pain,Cardiac History,Abnormal,No
+70,Male,160,269,Normal,34.0,Fatigue,Cardiac History,Abnormal,No
+59,Female,174,249,Normal,34.2,Chest Pain,Cardiac History,Reversible Defect,No
+64,Male,145,212,Normal,33.6,Chest Pain,No Major History,Fixed Defect,No
+57,Male,152,274,Normal,24.6,Chest Pain,Cardiac History,Abnormal,No
+56,Male,132,184,Normal,18.8,Chest Pain,Cardiac History,Fixed Defect,No
+48,Male,124,274,Normal,33.8,Chest Pain,No Major History,Abnormal,No
+56,Female,134,409,Normal,25.6,Chest Pain,Cardiac History,Abnormal,No
+66,Male,160,246,Normal,34.4,Shortness of Breath,Cardiac History,Fixed Defect,No
+54,Male,192,283,Normal,34.4,Shortness of Breath,No Major History,Abnormal,No
+69,Male,140,254,Normal,32.6,Fatigue,No Major History,Abnormal,No
+51,Male,140,298,Normal,23.4,Chest Pain,Cardiac History,Abnormal,No
+43,Male,132,247,High,24.9,Chest Pain,Cardiac History,Abnormal,No
+62,Female,138,294,High,32.5,Chest Pain,No Major History,Reversible Defect,No
+67,Male,100,299,Normal,23.7,Chest Pain,Cardiac History,Reversible Defect,No
+59,Male,160,273,Normal,21.3,Dizziness,No Major History,Reversible Defect,No
+45,Male,142,309,Normal,27.7,Chest Pain,Cardiac History,Abnormal,No
+58,Male,128,259,Normal,33.9,Chest Pain,Cardiac History,Abnormal,No
+50,Male,144,200,Normal,30.0,Chest Pain,Cardiac History,Abnormal,No
+62,Female,150,244,Normal,27.9,Chest Pain,Cardiac History,Reversible Defect,No
+38,Male,120,231,Normal,20.1,Dizziness,Cardiac History,Abnormal,No
+66,Female,178,228,High,28.6,Chest Pain,Cardiac History,Abnormal,No
+52,Male,112,230,Normal,34.8,Chest Pain,No Major History,Reversible Defect,No
+53,Male,123,282,Normal,20.8,Chest Pain,Cardiac History,Abnormal,No
+63,Female,108,269,Normal,27.1,Chest Pain,Cardiac History,Reversible Defect,No
+54,Male,110,206,Normal,33.0,Chest Pain,Cardiac History,Reversible Defect,No
+66,Male,112,212,Normal,30.7,Chest Pain,Cardiac History,Reversible Defect,No
+55,Female,180,327,Normal,30.0,Chest Pain,Cardiac History,Reversible Defect,No
+49,Male,118,149,Normal,30.1,Fatigue,No Major History,Reversible Defect,No
+54,Male,122,286,Normal,24.4,Chest Pain,Cardiac History,Reversible Defect,No
+56,Male,130,283,High,23.3,Chest Pain,Cardiac History,Abnormal,No
+46,Male,120,249,Normal,31.9,Chest Pain,No Major History,Abnormal,No
+61,Male,134,234,Normal,31.9,Dizziness,No Major History,Reversible Defect,No
+67,Male,120,237,Normal,32.8,Chest Pain,No Major History,Reversible Defect,No
+58,Male,100,234,Normal,33.6,Chest Pain,No Major History,Abnormal,No
+47,Male,110,275,Normal,26.9,Chest Pain,Cardiac History,Reversible Defect,No
+52,Male,125,212,Normal,26.8,Chest Pain,No Major History,Abnormal,No
+58,Male,146,218,Normal,31.7,Chest Pain,No Major History,Abnormal,No
+57,Male,124,261,Normal,29.2,Shortness of Breath,No Major History,Abnormal,No
+58,Female,136,319,High,30.1,Shortness of Breath,No Major History,Reversible Defect,No
+61,Male,138,166,Normal,31.6,Chest Pain,Cardiac History,Reversible Defect,No
+42,Male,136,315,Normal,33.2,Chest Pain,Cardiac History,Fixed Defect,No
+52,Male,128,204,High,24.1,Chest Pain,Cardiac History,Normal,No
+59,Male,126,218,High,24.7,Fatigue,No Major History,Fixed Defect,No
+40,Male,152,223,Normal,20.1,Chest Pain,No Major History,Abnormal,No
+61,Male,140,207,Normal,28.0,Chest Pain,Cardiac History,Abnormal,No
+46,Male,140,311,Normal,19.1,Chest Pain,Cardiac History,Abnormal,No
+59,Male,134,204,Normal,26.2,Dizziness,No Major History,Reversible Defect,No
+57,Male,154,232,Normal,27.5,Shortness of Breath,No Major History,Reversible Defect,No
+57,Male,110,335,Normal,23.2,Chest Pain,Cardiac History,Abnormal,No
+55,Female,128,205,Normal,28.2,Chest Pain,Cardiac History,Abnormal,No
+61,Male,148,203,Normal,19.0,Chest Pain,No Major History,Abnormal,No
+58,Male,114,318,Normal,19.1,Chest Pain,No Major History,Fixed Defect,No
+58,Female,170,225,High,32.1,Chest Pain,Cardiac History,Fixed Defect,No
+67,Male,152,212,Normal,24.4,Fatigue,No Major History,Abnormal,No
+44,Male,120,169,Normal,20.6,Chest Pain,Cardiac History,Fixed Defect,No
+63,Male,140,187,Normal,27.1,Chest Pain,Cardiac History,Abnormal,No
+63,Female,124,197,Normal,31.2,Chest Pain,Cardiac History,Reversible Defect,No
+59,Male,164,176,High,22.1,Chest Pain,No Major History,Fixed Defect,No
+57,Female,140,241,Normal,28.8,Chest Pain,Cardiac History,Abnormal,No
+45,Male,110,264,Normal,19.9,Dizziness,No Major History,Abnormal,No
+68,Male,144,193,High,19.4,Chest Pain,No Major History,Abnormal,No
+57,Male,130,131,Normal,27.3,Chest Pain,Cardiac History,Abnormal,No
+57,Female,130,236,Normal,27.4,Shortness of Breath,No Major History,Reversible Defect,No
+52,Male,125,212,Normal,29.0,Chest Pain,No Major History,Abnormal,No
+53,Male,140,203,High,30.5,Chest Pain,Cardiac History,Abnormal,No
+70,Male,145,174,Normal,34.6,Chest Pain,Cardiac History,Abnormal,No
+61,Male,148,203,Normal,27.0,Chest Pain,No Major History,Abnormal,No
+62,Female,138,294,High,23.8,Chest Pain,No Major History,Reversible Defect,No
+58,Female,100,248,Normal,31.6,Chest Pain,No Major History,Reversible Defect,Yes
+58,Male,114,318,Normal,23.0,Chest Pain,No Major History,Fixed Defect,No
+55,Male,160,289,Normal,25.7,Chest Pain,Cardiac History,Abnormal,No
+46,Male,120,249,Normal,19.8,Chest Pain,No Major History,Abnormal,No
+54,Male,122,286,Normal,18.9,Chest Pain,Cardiac History,Reversible Defect,No
+71,Female,112,149,Normal,34.4,Chest Pain,No Major History,Reversible Defect,Yes
+43,Female,132,341,High,32.3,Chest Pain,Cardiac History,Abnormal,No
+34,Female,118,210,Normal,30.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+51,Male,140,298,Normal,25.2,Chest Pain,Cardiac History,Abnormal,No
+52,Male,128,204,High,21.4,Chest Pain,Cardiac History,Normal,No
+34,Female,118,210,Normal,21.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+51,Female,140,308,Normal,22.6,Fatigue,No Major History,Reversible Defect,Yes
+54,Male,124,266,Normal,27.6,Chest Pain,Cardiac History,Abnormal,No
+50,Female,120,244,Normal,30.3,Shortness of Breath,No Major History,Reversible Defect,Yes
+58,Male,140,211,High,29.4,Fatigue,No Major History,Reversible Defect,Yes
+60,Male,140,185,Normal,23.1,Fatigue,No Major History,Reversible Defect,No
+67,Female,106,223,Normal,34.3,Chest Pain,No Major History,Reversible Defect,Yes
+45,Male,104,208,Normal,30.7,Chest Pain,Cardiac History,Reversible Defect,Yes
+63,Female,135,252,Normal,27.6,Fatigue,No Major History,Reversible Defect,Yes
+42,Female,120,209,Normal,28.6,Fatigue,No Major History,Reversible Defect,Yes
+61,Female,145,307,Normal,25.4,Chest Pain,Cardiac History,Abnormal,No
+44,Male,130,233,Normal,22.6,Fatigue,Cardiac History,Reversible Defect,Yes
+58,Female,136,319,High,24.4,Shortness of Breath,No Major History,Reversible Defect,No
+56,Male,130,256,High,31.0,Fatigue,Cardiac History,Fixed Defect,No
+55,Female,180,327,Normal,18.7,Chest Pain,Cardiac History,Reversible Defect,No
+44,Male,120,169,Normal,20.4,Chest Pain,Cardiac History,Fixed Defect,No
+50,Female,120,244,Normal,19.3,Shortness of Breath,No Major History,Reversible Defect,Yes
+57,Male,130,131,Normal,19.2,Chest Pain,Cardiac History,Abnormal,No
+70,Male,160,269,Normal,32.6,Fatigue,Cardiac History,Abnormal,No
+50,Male,129,196,Normal,30.1,Fatigue,No Major History,Reversible Defect,Yes
+46,Male,150,231,Normal,26.3,Fatigue,No Major History,Reversible Defect,No
+51,Male,125,213,Normal,20.1,Dizziness,Cardiac History,Reversible Defect,Yes
+59,Male,138,271,Normal,26.6,Chest Pain,No Major History,Reversible Defect,Yes
+64,Male,128,263,Normal,26.3,Chest Pain,Cardiac History,Abnormal,Yes
+57,Male,128,229,Normal,21.4,Fatigue,No Major History,Abnormal,No
+65,Female,160,360,Normal,25.7,Fatigue,No Major History,Reversible Defect,Yes
+54,Male,120,258,Normal,25.1,Fatigue,No Major History,Abnormal,Yes
+61,Female,130,330,Normal,28.7,Chest Pain,No Major History,Reversible Defect,No
+46,Male,120,249,Normal,29.0,Chest Pain,No Major History,Abnormal,No
+55,Female,132,342,Normal,19.2,Shortness of Breath,No Major History,Reversible Defect,Yes
+42,Male,140,226,Normal,24.7,Chest Pain,No Major History,Reversible Defect,Yes
+41,Male,135,203,Normal,28.8,Shortness of Breath,No Major History,Fixed Defect,Yes
+66,Female,178,228,High,26.8,Chest Pain,Cardiac History,Abnormal,No
+66,Female,146,278,Normal,32.6,Fatigue,No Major History,Reversible Defect,Yes
+60,Male,117,230,High,29.4,Chest Pain,Cardiac History,Abnormal,No
+58,Female,150,283,High,21.2,Dizziness,No Major History,Reversible Defect,Yes
+57,Female,140,241,Normal,19.7,Chest Pain,Cardiac History,Abnormal,No
+38,Male,138,175,Normal,29.1,Fatigue,No Major History,Reversible Defect,Yes
+49,Male,120,188,Normal,18.9,Fatigue,No Major History,Abnormal,No
+55,Male,140,217,Normal,28.2,Chest Pain,Cardiac History,Abnormal,No
+55,Male,140,217,Normal,34.0,Chest Pain,Cardiac History,Abnormal,No
+56,Male,120,193,Normal,28.0,Dizziness,No Major History,Abnormal,Yes
+48,Male,130,245,Normal,24.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+67,Male,152,212,Normal,29.1,Fatigue,No Major History,Abnormal,No
+57,Male,154,232,Normal,26.1,Shortness of Breath,No Major History,Reversible Defect,No
+29,Male,130,204,Normal,27.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+66,Female,146,278,Normal,34.0,Fatigue,No Major History,Reversible Defect,Yes
+67,Male,100,299,Normal,24.9,Chest Pain,Cardiac History,Reversible Defect,No
+59,Male,150,212,High,34.4,Fatigue,No Major History,Reversible Defect,Yes
+29,Male,130,204,Normal,33.4,Shortness of Breath,No Major History,Reversible Defect,Yes
+59,Male,170,288,Normal,21.7,Dizziness,No Major History,Abnormal,No
+53,Male,130,197,High,19.6,Fatigue,No Major History,Reversible Defect,Yes
+42,Male,136,315,Normal,20.2,Chest Pain,Cardiac History,Fixed Defect,No
+37,Female,120,215,Normal,18.8,Fatigue,No Major History,Reversible Defect,Yes
+62,Female,160,164,Normal,20.1,Chest Pain,No Major History,Abnormal,No
+59,Male,170,326,Normal,29.8,Chest Pain,Cardiac History,Abnormal,No
+61,Male,140,207,Normal,19.7,Chest Pain,Cardiac History,Abnormal,No
+56,Male,125,249,High,23.8,Chest Pain,Cardiac History,Reversible Defect,No
+59,Male,140,177,Normal,32.4,Chest Pain,Cardiac History,Abnormal,No
+48,Male,130,256,High,18.9,Chest Pain,Cardiac History,Abnormal,No
+47,Male,138,257,Normal,31.9,Fatigue,No Major History,Reversible Defect,Yes
+48,Male,124,255,High,23.2,Fatigue,No Major History,Reversible Defect,Yes
+63,Male,140,187,Normal,20.4,Chest Pain,Cardiac History,Abnormal,No
+52,Male,134,201,Normal,30.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+52,Male,134,201,Normal,28.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+50,Male,140,233,Normal,33.0,Fatigue,No Major History,Abnormal,No
+49,Male,118,149,Normal,30.6,Fatigue,No Major History,Reversible Defect,No
+46,Male,150,231,Normal,31.8,Fatigue,No Major History,Reversible Defect,No
+38,Male,138,175,Normal,23.2,Fatigue,No Major History,Reversible Defect,Yes
+37,Female,120,215,Normal,21.4,Fatigue,No Major History,Reversible Defect,Yes
+44,Male,120,220,Normal,30.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+58,Male,140,211,High,31.8,Fatigue,No Major History,Reversible Defect,Yes
+59,Female,174,249,Normal,34.8,Chest Pain,Cardiac History,Reversible Defect,No
+62,Female,140,268,Normal,25.3,Chest Pain,No Major History,Reversible Defect,No
+68,Male,144,193,High,24.6,Chest Pain,No Major History,Abnormal,No
+54,Female,108,267,Normal,31.3,Fatigue,No Major History,Reversible Defect,Yes
+62,Female,124,209,Normal,24.1,Chest Pain,No Major History,Reversible Defect,Yes
+63,Male,140,187,Normal,33.9,Chest Pain,Cardiac History,Abnormal,No
+44,Male,120,169,Normal,32.7,Chest Pain,Cardiac History,Fixed Defect,No
+62,Male,128,208,High,25.6,Shortness of Breath,No Major History,Reversible Defect,Yes
+45,Female,138,236,Normal,30.9,Chest Pain,Cardiac History,Reversible Defect,Yes
+57,Female,128,303,Normal,30.9,Chest Pain,No Major History,Reversible Defect,Yes
+53,Male,123,282,Normal,20.2,Chest Pain,Cardiac History,Abnormal,No
+65,Male,110,248,Normal,33.4,Chest Pain,No Major History,Fixed Defect,No
+76,Female,140,197,Normal,26.8,Fatigue,No Major History,Reversible Defect,Yes
+43,Female,122,213,Normal,32.1,Fatigue,No Major History,Reversible Defect,Yes
+57,Male,150,126,High,23.8,Fatigue,No Major History,Abnormal,Yes
+54,Male,108,309,Normal,33.3,Shortness of Breath,No Major History,Abnormal,Yes
+47,Male,138,257,Normal,24.9,Fatigue,No Major History,Reversible Defect,Yes
+52,Male,118,186,Normal,18.7,Dizziness,No Major History,Fixed Defect,Yes
+47,Male,110,275,Normal,33.4,Chest Pain,Cardiac History,Reversible Defect,No
+51,Male,140,299,Normal,20.0,Chest Pain,Cardiac History,Abnormal,No
+62,Male,120,281,Normal,23.8,Shortness of Breath,No Major History,Abnormal,No
+40,Male,152,223,Normal,34.2,Chest Pain,No Major History,Abnormal,No
+54,Male,110,206,Normal,34.2,Chest Pain,Cardiac History,Reversible Defect,No
+44,Male,110,197,Normal,28.0,Chest Pain,No Major History,Reversible Defect,No
+53,Male,142,226,Normal,28.9,Chest Pain,Cardiac History,Abnormal,Yes
+48,Male,130,256,High,25.9,Chest Pain,Cardiac History,Abnormal,No
+57,Male,110,335,Normal,23.3,Chest Pain,Cardiac History,Abnormal,No
+59,Male,126,218,High,23.9,Fatigue,No Major History,Fixed Defect,No
+61,Female,145,307,Normal,29.6,Chest Pain,Cardiac History,Abnormal,No
+63,Male,130,254,Normal,30.9,Chest Pain,No Major History,Abnormal,No
+43,Male,120,177,Normal,31.6,Chest Pain,Cardiac History,Abnormal,No
+29,Male,130,204,Normal,31.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+42,Male,120,295,Normal,20.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+54,Male,108,309,Normal,26.7,Shortness of Breath,No Major History,Abnormal,Yes
+44,Male,120,169,Normal,19.4,Chest Pain,Cardiac History,Fixed Defect,No
+60,Male,145,282,Normal,27.6,Chest Pain,Cardiac History,Abnormal,No
+65,Female,140,417,High,25.8,Fatigue,No Major History,Reversible Defect,Yes
+61,Male,120,260,Normal,33.1,Chest Pain,Cardiac History,Abnormal,No
+60,Female,150,240,Normal,24.3,Dizziness,No Major History,Reversible Defect,Yes
+66,Male,120,302,Normal,20.4,Chest Pain,No Major History,Reversible Defect,Yes
+53,Male,130,197,High,20.9,Fatigue,No Major History,Reversible Defect,Yes
+52,Male,138,223,Normal,31.1,Fatigue,No Major History,Reversible Defect,Yes
+57,Male,140,192,Normal,28.7,Chest Pain,No Major History,Fixed Defect,Yes
+60,Female,150,240,Normal,20.2,Dizziness,No Major History,Reversible Defect,Yes
+51,Female,130,256,Normal,19.9,Fatigue,No Major History,Reversible Defect,Yes
+41,Male,135,203,Normal,30.1,Shortness of Breath,No Major History,Fixed Defect,Yes
+50,Male,129,196,Normal,19.7,Fatigue,No Major History,Reversible Defect,Yes
+54,Male,108,309,Normal,32.1,Shortness of Breath,No Major History,Abnormal,Yes
+58,Female,170,225,High,30.2,Chest Pain,Cardiac History,Fixed Defect,No
+55,Female,132,342,Normal,19.8,Shortness of Breath,No Major History,Reversible Defect,Yes
+64,Female,180,325,Normal,19.9,Chest Pain,Cardiac History,Reversible Defect,Yes
+47,Male,138,257,Normal,34.8,Fatigue,No Major History,Reversible Defect,Yes
+41,Male,110,235,Normal,24.7,Shortness of Breath,No Major History,Reversible Defect,Yes
+57,Male,152,274,Normal,24.6,Chest Pain,Cardiac History,Abnormal,No
+63,Female,124,197,Normal,31.9,Chest Pain,Cardiac History,Reversible Defect,No
+61,Male,134,234,Normal,34.1,Dizziness,No Major History,Reversible Defect,No
+34,Male,118,182,Normal,34.8,Dizziness,No Major History,Reversible Defect,Yes
+47,Male,112,204,Normal,30.9,Chest Pain,No Major History,Reversible Defect,Yes
+40,Male,110,167,Normal,24.7,Chest Pain,Cardiac History,Abnormal,No
+51,Female,120,295,Normal,19.9,Fatigue,No Major History,Reversible Defect,Yes
+41,Male,110,172,Normal,31.3,Chest Pain,No Major History,Abnormal,No
+52,Male,152,298,High,27.7,Dizziness,No Major History,Abnormal,Yes
+39,Male,140,321,Normal,25.5,Fatigue,No Major History,Reversible Defect,Yes
+58,Male,114,318,Normal,33.5,Chest Pain,No Major History,Fixed Defect,No
+54,Male,192,283,Normal,20.3,Shortness of Breath,No Major History,Abnormal,No
+58,Male,125,300,Normal,26.6,Chest Pain,No Major History,Abnormal,No
+54,Male,120,258,Normal,18.7,Fatigue,No Major History,Abnormal,Yes
+63,Male,130,330,High,26.2,Chest Pain,Cardiac History,Abnormal,No
+54,Male,108,309,Normal,19.4,Shortness of Breath,No Major History,Abnormal,Yes
+40,Male,140,199,Normal,20.5,Dizziness,Cardiac History,Abnormal,Yes
+54,Male,120,258,Normal,20.4,Fatigue,No Major History,Abnormal,Yes
+67,Female,115,564,Normal,29.2,Fatigue,No Major History,Abnormal,Yes
+41,Male,120,157,Normal,30.8,Shortness of Breath,No Major History,Reversible Defect,Yes
+77,Male,125,304,Normal,28.1,Chest Pain,Cardiac History,Reversible Defect,No
+51,Male,100,222,Normal,34.4,Fatigue,Cardiac History,Reversible Defect,Yes
+77,Male,125,304,Normal,24.7,Chest Pain,Cardiac History,Reversible Defect,No
+48,Male,124,274,Normal,23.2,Chest Pain,No Major History,Abnormal,No
+56,Male,125,249,High,32.8,Chest Pain,Cardiac History,Reversible Defect,No
+59,Male,170,326,Normal,22.2,Chest Pain,Cardiac History,Abnormal,No
+56,Male,132,184,Normal,34.4,Chest Pain,Cardiac History,Fixed Defect,No
+57,Female,120,354,Normal,18.7,Chest Pain,Cardiac History,Reversible Defect,Yes
+43,Male,130,315,Normal,34.5,Fatigue,No Major History,Reversible Defect,Yes
+45,Female,112,160,Normal,19.2,Shortness of Breath,No Major History,Reversible Defect,Yes
+43,Male,150,247,Normal,33.2,Chest Pain,No Major History,Reversible Defect,Yes
+56,Male,130,283,High,27.2,Chest Pain,Cardiac History,Abnormal,No
+56,Male,120,240,Normal,34.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+39,Female,94,199,Normal,19.7,Fatigue,No Major History,Reversible Defect,Yes
+54,Male,110,239,Normal,27.6,Chest Pain,Cardiac History,Abnormal,No
+56,Female,200,288,High,34.5,Chest Pain,Cardiac History,Abnormal,No
+56,Male,130,283,High,27.1,Chest Pain,Cardiac History,Abnormal,No
+64,Male,120,246,Normal,28.9,Chest Pain,Cardiac History,Reversible Defect,No
+44,Male,110,197,Normal,30.0,Chest Pain,No Major History,Reversible Defect,No
+56,Female,134,409,Normal,26.0,Chest Pain,Cardiac History,Abnormal,No
+63,Male,140,187,Normal,28.9,Chest Pain,Cardiac History,Abnormal,No
+64,Male,110,211,Normal,28.1,Dizziness,Cardiac History,Reversible Defect,Yes
+60,Male,140,293,Normal,33.4,Chest Pain,No Major History,Abnormal,No
+42,Male,130,180,Normal,19.2,Fatigue,No Major History,Reversible Defect,Yes
+45,Male,128,308,Normal,23.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+57,Male,165,289,High,34.2,Chest Pain,No Major History,Abnormal,No
+40,Male,110,167,Normal,33.2,Chest Pain,Cardiac History,Abnormal,No
+56,Male,125,249,High,26.0,Chest Pain,Cardiac History,Reversible Defect,No
+63,Male,130,254,Normal,28.7,Chest Pain,No Major History,Abnormal,No
+64,Male,125,309,Normal,23.1,Fatigue,Cardiac History,Abnormal,No
+41,Male,112,250,Normal,21.6,Fatigue,No Major History,Reversible Defect,Yes
+56,Male,130,221,Normal,26.2,Shortness of Breath,No Major History,Abnormal,Yes
+67,Female,115,564,Normal,24.3,Fatigue,No Major History,Abnormal,Yes
+69,Male,160,234,High,28.1,Dizziness,No Major History,Reversible Defect,Yes
+67,Male,160,286,Normal,19.8,Chest Pain,Cardiac History,Reversible Defect,No
+59,Male,150,212,High,34.6,Fatigue,No Major History,Reversible Defect,Yes
+58,Male,100,234,Normal,34.8,Chest Pain,No Major History,Abnormal,No
+45,Male,115,260,Normal,30.0,Chest Pain,No Major History,Reversible Defect,Yes
+60,Female,102,318,Normal,27.3,Fatigue,No Major History,Reversible Defect,Yes
+50,Male,144,200,Normal,23.6,Chest Pain,Cardiac History,Abnormal,No
+62,Female,124,209,Normal,31.9,Chest Pain,No Major History,Reversible Defect,Yes
+34,Male,118,182,Normal,29.8,Dizziness,No Major History,Reversible Defect,Yes
+52,Male,152,298,High,21.2,Dizziness,No Major History,Abnormal,Yes
+64,Male,170,227,Normal,33.5,Dizziness,No Major History,Abnormal,Yes
+66,Female,146,278,Normal,32.1,Fatigue,No Major History,Reversible Defect,Yes
+42,Male,148,244,Normal,34.2,Dizziness,No Major History,Reversible Defect,Yes
+59,Male,126,218,High,30.5,Fatigue,No Major History,Fixed Defect,No
+41,Male,112,250,Normal,28.6,Fatigue,No Major History,Reversible Defect,Yes
+38,Male,138,175,Normal,25.4,Fatigue,No Major History,Reversible Defect,Yes
+62,Male,120,281,Normal,33.9,Shortness of Breath,No Major History,Abnormal,No
+42,Male,120,240,High,32.8,Fatigue,No Major History,Abnormal,Yes
+67,Male,100,299,Normal,19.2,Chest Pain,Cardiac History,Reversible Defect,No
+50,Male,150,243,Normal,18.9,Chest Pain,No Major History,Abnormal,No
+43,Male,130,315,Normal,24.7,Fatigue,No Major History,Reversible Defect,Yes
+45,Male,128,308,Normal,31.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+49,Male,130,266,Normal,34.8,Shortness of Breath,No Major History,Reversible Defect,Yes
+65,Male,135,254,Normal,21.0,Chest Pain,No Major History,Abnormal,No
+41,Male,120,157,Normal,28.3,Shortness of Breath,No Major History,Reversible Defect,Yes
+46,Male,140,311,Normal,24.8,Chest Pain,Cardiac History,Abnormal,No
+54,Male,122,286,Normal,34.5,Chest Pain,Cardiac History,Reversible Defect,No
+57,Female,130,236,Normal,32.4,Shortness of Breath,No Major History,Reversible Defect,No
+63,Male,130,254,Normal,32.3,Chest Pain,No Major History,Abnormal,No
+64,Male,110,211,Normal,26.2,Dizziness,Cardiac History,Reversible Defect,Yes
+39,Female,94,199,Normal,25.3,Fatigue,No Major History,Reversible Defect,Yes
+51,Male,140,261,Normal,23.0,Chest Pain,Cardiac History,Reversible Defect,Yes
+54,Male,150,232,Normal,19.4,Fatigue,No Major History,Abnormal,Yes
+49,Male,118,149,Normal,32.8,Fatigue,No Major History,Reversible Defect,No
+44,Female,118,242,Normal,31.9,Fatigue,No Major History,Reversible Defect,Yes
+52,Male,128,205,High,35.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+66,Female,178,228,High,34.9,Chest Pain,Cardiac History,Abnormal,No
+58,Male,125,300,Normal,27.7,Chest Pain,No Major History,Abnormal,No
+56,Male,120,236,Normal,31.2,Shortness of Breath,No Major History,Reversible Defect,Yes
+60,Male,125,258,Normal,34.1,Chest Pain,Cardiac History,Abnormal,No
+41,Female,126,306,Normal,32.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+49,Female,130,269,Normal,22.6,Chest Pain,No Major History,Reversible Defect,Yes
+64,Male,170,227,Normal,25.9,Dizziness,No Major History,Abnormal,Yes
+49,Male,118,149,Normal,20.6,Fatigue,No Major History,Reversible Defect,No
+57,Male,124,261,Normal,34.2,Shortness of Breath,No Major History,Abnormal,No
+60,Male,117,230,High,28.5,Chest Pain,Cardiac History,Abnormal,No
+62,Female,150,244,Normal,22.3,Chest Pain,Cardiac History,Reversible Defect,No
+54,Female,132,288,High,29.6,Shortness of Breath,Cardiac History,Reversible Defect,Yes
+67,Male,152,212,Normal,28.7,Fatigue,No Major History,Abnormal,No
+38,Male,138,175,Normal,24.4,Fatigue,No Major History,Reversible Defect,Yes
+60,Male,140,185,Normal,20.4,Fatigue,No Major History,Reversible Defect,No
+51,Male,125,245,High,29.6,Fatigue,No Major History,Reversible Defect,Yes
+44,Male,130,219,Normal,27.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+54,Male,192,283,Normal,31.2,Shortness of Breath,No Major History,Abnormal,No
+46,Male,140,311,Normal,27.1,Chest Pain,Cardiac History,Abnormal,No
+39,Female,138,220,Normal,32.6,Fatigue,No Major History,Reversible Defect,Yes
+42,Male,130,180,Normal,27.6,Fatigue,No Major History,Reversible Defect,Yes
+47,Male,110,275,Normal,27.8,Chest Pain,Cardiac History,Reversible Defect,No
+45,Female,112,160,Normal,33.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+55,Male,132,353,Normal,25.2,Chest Pain,Cardiac History,Abnormal,No
+57,Male,165,289,High,20.7,Chest Pain,No Major History,Abnormal,No
+35,Male,120,198,Normal,19.0,Chest Pain,Cardiac History,Abnormal,No
+62,Female,140,394,Normal,31.0,Chest Pain,No Major History,Reversible Defect,Yes
+35,Female,138,183,Normal,28.7,Chest Pain,No Major History,Reversible Defect,Yes
+64,Female,180,325,Normal,30.1,Chest Pain,Cardiac History,Reversible Defect,Yes
+38,Male,120,231,Normal,22.0,Dizziness,Cardiac History,Abnormal,No
+66,Male,120,302,Normal,20.8,Chest Pain,No Major History,Reversible Defect,Yes
+44,Male,120,226,Normal,18.7,Fatigue,No Major History,Reversible Defect,Yes
+54,Male,150,232,Normal,24.3,Fatigue,No Major History,Abnormal,Yes
+48,Male,122,222,Normal,28.2,Chest Pain,No Major History,Reversible Defect,Yes
+55,Female,132,342,Normal,25.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+58,Female,170,225,High,25.7,Chest Pain,Cardiac History,Fixed Defect,No
+45,Male,104,208,Normal,33.4,Chest Pain,Cardiac History,Reversible Defect,Yes
+53,Male,123,282,Normal,24.2,Chest Pain,Cardiac History,Abnormal,No
+67,Male,120,237,Normal,27.0,Chest Pain,No Major History,Reversible Defect,No
+58,Male,132,224,Normal,31.4,Fatigue,No Major History,Abnormal,No
+71,Female,110,265,High,25.0,Fatigue,No Major History,Reversible Defect,Yes
+43,Male,110,211,Normal,28.8,Chest Pain,No Major History,Abnormal,Yes
+44,Male,120,263,Normal,32.7,Shortness of Breath,No Major History,Abnormal,Yes
+39,Female,138,220,Normal,34.2,Fatigue,No Major History,Reversible Defect,Yes
+54,Male,110,206,Normal,20.9,Chest Pain,Cardiac History,Reversible Defect,No
+66,Male,160,228,Normal,33.8,Chest Pain,No Major History,Fixed Defect,Yes
+56,Male,130,283,High,26.6,Chest Pain,Cardiac History,Abnormal,No
+57,Male,132,207,Normal,22.8,Chest Pain,Cardiac History,Abnormal,Yes
+44,Male,130,219,Normal,26.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+55,Male,160,289,Normal,34.7,Chest Pain,Cardiac History,Abnormal,No
+41,Female,105,198,Normal,26.6,Shortness of Breath,No Major History,Reversible Defect,Yes
+45,Female,130,234,Normal,23.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+35,Male,122,192,Normal,29.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+41,Female,130,204,Normal,22.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+64,Male,110,211,Normal,19.8,Dizziness,Cardiac History,Reversible Defect,Yes
+58,Male,132,224,Normal,20.6,Fatigue,No Major History,Abnormal,No
+71,Female,110,265,High,20.6,Fatigue,No Major History,Reversible Defect,Yes
+64,Female,140,313,Normal,21.0,Fatigue,No Major History,Abnormal,Yes
+71,Female,160,302,Normal,20.8,Shortness of Breath,No Major History,Reversible Defect,Yes
+58,Female,120,340,Normal,29.1,Fatigue,No Major History,Reversible Defect,Yes
+40,Male,152,223,Normal,21.5,Chest Pain,No Major History,Abnormal,No
+52,Male,138,223,Normal,24.2,Fatigue,No Major History,Reversible Defect,Yes
+58,Male,128,259,Normal,33.3,Chest Pain,Cardiac History,Abnormal,No
+61,Male,150,243,High,26.3,Fatigue,Cardiac History,Reversible Defect,Yes
+59,Male,150,212,High,29.5,Fatigue,No Major History,Reversible Defect,Yes
+56,Female,200,288,High,21.3,Chest Pain,Cardiac History,Abnormal,No
+67,Male,100,299,Normal,21.7,Chest Pain,Cardiac History,Reversible Defect,No
+67,Male,120,237,Normal,19.2,Chest Pain,No Major History,Reversible Defect,No
+58,Male,150,270,Normal,21.3,Chest Pain,Cardiac History,Abnormal,No
+35,Male,122,192,Normal,23.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+52,Male,120,325,Normal,21.4,Shortness of Breath,No Major History,Reversible Defect,Yes
+46,Female,105,204,Normal,20.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+51,Male,94,227,Normal,20.5,Fatigue,Cardiac History,Abnormal,Yes
+55,Female,132,342,Normal,26.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+60,Male,145,282,Normal,21.9,Chest Pain,Cardiac History,Abnormal,No
+52,Female,136,196,Normal,24.5,Fatigue,No Major History,Reversible Defect,Yes
+62,Male,120,267,Normal,26.8,Chest Pain,Cardiac History,Abnormal,No
+44,Female,118,242,Normal,29.9,Fatigue,No Major History,Reversible Defect,Yes
+44,Male,120,220,Normal,19.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+59,Male,126,218,High,31.7,Fatigue,No Major History,Fixed Defect,No
+56,Female,140,294,Normal,28.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+61,Male,120,260,Normal,19.8,Chest Pain,Cardiac History,Abnormal,No
+48,Male,130,256,High,32.9,Chest Pain,Cardiac History,Abnormal,No
+70,Male,160,269,Normal,33.7,Fatigue,Cardiac History,Abnormal,No
+74,Female,120,269,Normal,19.5,Shortness of Breath,Cardiac History,Reversible Defect,Yes
+40,Male,140,199,Normal,23.1,Dizziness,Cardiac History,Abnormal,Yes
+42,Male,148,244,Normal,31.8,Dizziness,No Major History,Reversible Defect,Yes
+64,Female,140,313,Normal,30.8,Fatigue,No Major History,Abnormal,Yes
+63,Female,135,252,Normal,21.5,Fatigue,No Major History,Reversible Defect,Yes
+59,Male,140,177,Normal,22.0,Chest Pain,Cardiac History,Abnormal,No
+53,Female,128,216,Normal,24.6,Fatigue,No Major History,Normal,Yes
+53,Female,130,264,Normal,26.5,Chest Pain,No Major History,Reversible Defect,Yes
+48,Female,130,275,Normal,28.7,Fatigue,No Major History,Reversible Defect,Yes
+45,Male,142,309,Normal,24.6,Chest Pain,Cardiac History,Abnormal,No
+66,Male,160,246,Normal,26.1,Shortness of Breath,Cardiac History,Fixed Defect,No
+48,Male,130,245,Normal,30.8,Shortness of Breath,No Major History,Reversible Defect,Yes
+56,Female,140,294,Normal,19.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+54,Male,192,283,Normal,22.7,Shortness of Breath,No Major History,Abnormal,No
+57,Male,150,276,Normal,30.3,Chest Pain,Cardiac History,Fixed Defect,No
+70,Male,130,322,Normal,33.3,Chest Pain,No Major History,Reversible Defect,No
+53,Female,128,216,Normal,26.9,Fatigue,No Major History,Normal,Yes
+37,Female,120,215,Normal,27.3,Fatigue,No Major History,Reversible Defect,Yes
+63,Female,108,269,Normal,20.3,Chest Pain,Cardiac History,Reversible Defect,No
+37,Male,130,250,Normal,25.9,Fatigue,No Major History,Reversible Defect,Yes
+54,Female,110,214,Normal,27.3,Fatigue,No Major History,Reversible Defect,Yes
+60,Male,130,206,Normal,22.5,Chest Pain,Cardiac History,Abnormal,No
+58,Male,150,270,Normal,22.9,Chest Pain,Cardiac History,Abnormal,No
+57,Male,150,126,High,24.7,Fatigue,No Major History,Abnormal,Yes
+54,Male,125,273,Normal,18.8,Fatigue,No Major History,Reversible Defect,Yes
+56,Male,130,256,High,23.8,Fatigue,Cardiac History,Fixed Defect,No
+60,Male,130,253,Normal,22.0,Chest Pain,Cardiac History,Abnormal,No
+38,Male,138,175,Normal,23.9,Fatigue,No Major History,Reversible Defect,Yes
+44,Male,120,226,Normal,20.5,Fatigue,No Major History,Reversible Defect,Yes
+65,Female,155,269,Normal,33.2,Fatigue,No Major History,Reversible Defect,Yes
+52,Male,172,199,High,28.3,Fatigue,No Major History,Abnormal,Yes
+41,Male,120,157,Normal,29.7,Shortness of Breath,No Major History,Reversible Defect,Yes
+66,Male,160,246,Normal,31.5,Shortness of Breath,Cardiac History,Fixed Defect,No
+50,Male,150,243,Normal,26.7,Chest Pain,No Major History,Abnormal,No
+54,Female,108,267,Normal,19.9,Fatigue,No Major History,Reversible Defect,Yes
+43,Male,132,247,High,27.4,Chest Pain,Cardiac History,Abnormal,No
+62,Female,130,263,Normal,28.2,Fatigue,No Major History,Abnormal,No
+66,Male,120,302,Normal,30.8,Chest Pain,No Major History,Reversible Defect,Yes
+50,Male,144,200,Normal,25.6,Chest Pain,Cardiac History,Abnormal,No
+57,Male,110,335,Normal,20.6,Chest Pain,Cardiac History,Abnormal,No
+57,Male,110,201,Normal,23.2,Chest Pain,Cardiac History,Fixed Defect,Yes
+57,Male,124,261,Normal,24.5,Shortness of Breath,No Major History,Abnormal,No
+46,Female,138,243,Normal,29.2,Chest Pain,Cardiac History,Reversible Defect,Yes
+59,Male,164,176,High,27.9,Chest Pain,No Major History,Fixed Defect,No
+67,Male,160,286,Normal,24.4,Chest Pain,Cardiac History,Reversible Defect,No
+59,Male,134,204,Normal,34.8,Dizziness,No Major History,Reversible Defect,No
+53,Female,128,216,Normal,28.5,Fatigue,No Major History,Normal,Yes
+48,Male,122,222,Normal,22.4,Chest Pain,No Major History,Reversible Defect,Yes
+62,Male,130,231,Normal,20.2,Fatigue,No Major History,Abnormal,Yes
+43,Female,122,213,Normal,21.0,Fatigue,No Major History,Reversible Defect,Yes
+53,Male,130,246,High,22.6,Fatigue,No Major History,Reversible Defect,Yes
+57,Female,130,236,Normal,21.2,Shortness of Breath,No Major History,Reversible Defect,No
+53,Male,130,246,High,21.6,Fatigue,No Major History,Reversible Defect,Yes
+58,Male,112,230,Normal,23.2,Fatigue,No Major History,Abnormal,No
+48,Male,110,229,Normal,21.4,Shortness of Breath,No Major History,Abnormal,No
+58,Male,105,240,Normal,33.3,Fatigue,Cardiac History,Abnormal,Yes
+51,Male,110,175,Normal,19.8,Fatigue,No Major History,Reversible Defect,Yes
+43,Female,132,341,High,27.2,Chest Pain,Cardiac History,Abnormal,No
+55,Male,132,353,Normal,25.3,Chest Pain,Cardiac History,Abnormal,No
+54,Female,110,214,Normal,34.7,Fatigue,No Major History,Reversible Defect,Yes
+58,Male,120,284,Normal,20.3,Shortness of Breath,No Major History,Reversible Defect,No
+46,Female,142,177,Normal,25.1,Fatigue,Cardiac History,Reversible Defect,Yes
+66,Male,160,228,Normal,34.5,Chest Pain,No Major History,Fixed Defect,Yes
+59,Male,140,221,Normal,32.8,Shortness of Breath,Cardiac History,Reversible Defect,Yes
+64,Female,130,303,Normal,32.0,Chest Pain,No Major History,Reversible Defect,Yes
+67,Male,120,237,Normal,22.8,Chest Pain,No Major History,Reversible Defect,No
+52,Male,118,186,Normal,21.3,Dizziness,No Major History,Fixed Defect,Yes
+58,Male,146,218,Normal,29.5,Chest Pain,No Major History,Abnormal,No
+58,Male,132,224,Normal,33.8,Fatigue,No Major History,Abnormal,No
+59,Male,110,239,Normal,27.7,Chest Pain,Cardiac History,Abnormal,No
+58,Male,150,270,Normal,27.9,Chest Pain,Cardiac History,Abnormal,No
+35,Male,126,282,Normal,23.1,Chest Pain,Cardiac History,Abnormal,No
+51,Male,110,175,Normal,31.2,Fatigue,No Major History,Reversible Defect,Yes
+42,Female,120,209,Normal,21.6,Fatigue,No Major History,Reversible Defect,Yes
+77,Male,125,304,Normal,23.8,Chest Pain,Cardiac History,Reversible Defect,No
+64,Male,120,246,Normal,25.5,Chest Pain,Cardiac History,Reversible Defect,No
+63,Male,145,233,High,26.9,Dizziness,No Major History,Fixed Defect,Yes
+58,Female,136,319,High,22.5,Shortness of Breath,No Major History,Reversible Defect,No
+45,Male,110,264,Normal,20.4,Dizziness,No Major History,Abnormal,No
+51,Male,110,175,Normal,28.6,Fatigue,No Major History,Reversible Defect,Yes
+62,Female,160,164,Normal,23.3,Chest Pain,No Major History,Abnormal,No
+63,Male,130,330,High,28.1,Chest Pain,Cardiac History,Abnormal,No
+66,Female,146,278,Normal,21.0,Fatigue,No Major History,Reversible Defect,Yes
+68,Male,180,274,High,26.4,Fatigue,Cardiac History,Abnormal,No
+40,Male,110,167,Normal,27.3,Chest Pain,Cardiac History,Abnormal,No
+66,Male,160,228,Normal,19.4,Chest Pain,No Major History,Fixed Defect,Yes
+63,Male,145,233,High,24.1,Dizziness,No Major History,Fixed Defect,Yes
+49,Male,120,188,Normal,20.7,Fatigue,No Major History,Abnormal,No
+71,Female,112,149,Normal,19.5,Chest Pain,No Major History,Reversible Defect,Yes
+70,Male,156,245,Normal,34.8,Shortness of Breath,No Major History,Reversible Defect,Yes
+46,Female,105,204,Normal,23.8,Shortness of Breath,No Major History,Reversible Defect,Yes
+61,Male,140,207,Normal,31.9,Chest Pain,Cardiac History,Abnormal,No
+56,Male,130,256,High,22.7,Fatigue,Cardiac History,Fixed Defect,No
+58,Male,140,211,High,29.7,Fatigue,No Major History,Reversible Defect,Yes
+58,Male,100,234,Normal,31.0,Chest Pain,No Major History,Abnormal,No
+46,Female,138,243,Normal,28.3,Chest Pain,Cardiac History,Reversible Defect,Yes
+46,Male,150,231,Normal,26.3,Fatigue,No Major History,Reversible Defect,No
+41,Female,105,198,Normal,25.3,Shortness of Breath,No Major History,Reversible Defect,Yes
+56,Male,125,249,High,24.3,Chest Pain,Cardiac History,Reversible Defect,No
+57,Male,150,276,Normal,33.8,Chest Pain,Cardiac History,Fixed Defect,No
+70,Male,130,322,Normal,32.2,Chest Pain,No Major History,Reversible Defect,No
+59,Male,170,288,Normal,34.4,Dizziness,No Major History,Abnormal,No
+41,Female,130,204,Normal,20.6,Shortness of Breath,No Major History,Reversible Defect,Yes
+54,Male,125,273,Normal,30.6,Fatigue,No Major History,Reversible Defect,Yes
+52,Male,138,223,Normal,34.0,Fatigue,No Major History,Reversible Defect,Yes
+62,Female,124,209,Normal,21.5,Chest Pain,No Major History,Reversible Defect,Yes
+65,Female,160,360,Normal,19.6,Fatigue,No Major History,Reversible Defect,Yes
+57,Female,128,303,Normal,30.7,Chest Pain,No Major History,Reversible Defect,Yes
+42,Female,102,265,Normal,28.0,Chest Pain,No Major History,Reversible Defect,Yes
+57,Female,120,354,Normal,32.4,Chest Pain,Cardiac History,Reversible Defect,Yes
+58,Female,136,319,High,20.8,Shortness of Breath,No Major History,Reversible Defect,No
+45,Male,142,309,Normal,31.6,Chest Pain,Cardiac History,Abnormal,No
+51,Female,130,305,Normal,21.8,Chest Pain,Cardiac History,Abnormal,No
+54,Female,160,201,Normal,21.2,Fatigue,No Major History,Reversible Defect,Yes
+57,Male,150,168,Normal,21.2,Fatigue,No Major History,Reversible Defect,Yes
+43,Male,132,247,High,31.9,Chest Pain,Cardiac History,Abnormal,No
+47,Male,108,243,Normal,29.5,Fatigue,No Major History,Reversible Defect,No
+67,Male,152,212,Normal,27.1,Fatigue,No Major History,Abnormal,No
+65,Female,150,225,Normal,24.4,Chest Pain,No Major History,Abnormal,No
+60,Female,102,318,Normal,33.0,Fatigue,No Major History,Reversible Defect,Yes
+37,Male,130,250,Normal,25.0,Fatigue,No Major History,Reversible Defect,Yes
+41,Female,112,268,Normal,32.0,Fatigue,Cardiac History,Reversible Defect,Yes
+57,Female,120,354,Normal,25.7,Chest Pain,Cardiac History,Reversible Defect,Yes
+59,Female,174,249,Normal,24.7,Chest Pain,Cardiac History,Reversible Defect,No
+67,Male,120,229,Normal,26.1,Chest Pain,Cardiac History,Abnormal,No
+47,Male,130,253,Normal,23.5,Fatigue,No Major History,Reversible Defect,Yes
+58,Male,120,284,Normal,30.8,Shortness of Breath,No Major History,Reversible Defect,No
+62,Female,150,244,Normal,26.8,Chest Pain,Cardiac History,Reversible Defect,No
+60,Male,140,293,Normal,22.3,Chest Pain,No Major History,Abnormal,No
+57,Male,152,274,Normal,33.3,Chest Pain,Cardiac History,Abnormal,No
+57,Male,150,168,Normal,24.8,Fatigue,No Major History,Reversible Defect,Yes
+47,Male,130,253,Normal,27.5,Fatigue,No Major History,Reversible Defect,Yes
+52,Male,128,205,High,33.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+53,Male,130,246,High,28.8,Fatigue,No Major History,Reversible Defect,Yes
+55,Male,160,289,Normal,20.4,Chest Pain,Cardiac History,Abnormal,No
+51,Female,120,295,Normal,34.0,Fatigue,No Major History,Reversible Defect,Yes
+52,Male,112,230,Normal,28.9,Chest Pain,No Major History,Reversible Defect,No
+63,Female,150,407,Normal,24.0,Chest Pain,No Major History,Abnormal,No
+49,Female,134,271,Normal,20.8,Shortness of Breath,No Major History,Reversible Defect,Yes
+66,Female,178,228,High,31.6,Chest Pain,Cardiac History,Abnormal,No
+49,Female,134,271,Normal,28.7,Shortness of Breath,No Major History,Reversible Defect,Yes
+65,Female,150,225,Normal,27.3,Chest Pain,No Major History,Abnormal,No
+69,Male,160,234,High,33.2,Dizziness,No Major History,Reversible Defect,Yes
+47,Male,108,243,Normal,31.5,Fatigue,No Major History,Reversible Defect,No
+39,Female,138,220,Normal,21.0,Fatigue,No Major History,Reversible Defect,Yes
+43,Male,150,247,Normal,23.6,Chest Pain,No Major History,Reversible Defect,Yes
+51,Male,140,261,Normal,22.6,Chest Pain,Cardiac History,Reversible Defect,Yes
+69,Male,140,254,Normal,30.8,Fatigue,No Major History,Abnormal,No
+48,Male,124,255,High,19.1,Fatigue,No Major History,Reversible Defect,Yes
+52,Male,118,186,Normal,27.9,Dizziness,No Major History,Fixed Defect,Yes
+43,Male,110,211,Normal,31.1,Chest Pain,No Major History,Abnormal,Yes
+67,Female,115,564,Normal,33.0,Fatigue,No Major History,Abnormal,Yes
+38,Male,138,175,Normal,24.1,Fatigue,No Major History,Reversible Defect,Yes
+44,Male,130,219,Normal,32.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+47,Male,110,275,Normal,20.3,Chest Pain,Cardiac History,Reversible Defect,No
+61,Male,150,243,High,32.5,Fatigue,Cardiac History,Reversible Defect,Yes
+67,Male,160,286,Normal,20.6,Chest Pain,Cardiac History,Reversible Defect,No
+60,Female,150,240,Normal,25.1,Dizziness,No Major History,Reversible Defect,Yes
+64,Female,140,313,Normal,31.7,Fatigue,No Major History,Abnormal,Yes
+58,Female,130,197,Normal,21.0,Chest Pain,No Major History,Reversible Defect,Yes
+41,Male,130,214,Normal,22.3,Fatigue,No Major History,Reversible Defect,Yes
+48,Male,110,229,Normal,30.4,Shortness of Breath,No Major History,Abnormal,No
+57,Male,150,126,High,30.4,Fatigue,No Major History,Abnormal,Yes
+57,Male,165,289,High,29.1,Chest Pain,No Major History,Abnormal,No
+57,Male,128,229,Normal,30.0,Fatigue,No Major History,Abnormal,No
+39,Male,140,321,Normal,27.5,Fatigue,No Major History,Reversible Defect,Yes
+58,Male,128,216,Normal,22.7,Chest Pain,Cardiac History,Abnormal,No
+51,Female,130,305,Normal,24.2,Chest Pain,Cardiac History,Abnormal,No
+63,Female,150,407,Normal,21.5,Chest Pain,No Major History,Abnormal,No
+51,Male,140,298,Normal,33.5,Chest Pain,Cardiac History,Abnormal,No
+35,Male,122,192,Normal,28.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+65,Male,110,248,Normal,25.1,Chest Pain,No Major History,Fixed Defect,No
+62,Male,120,281,Normal,26.1,Shortness of Breath,No Major History,Abnormal,No
+41,Male,110,172,Normal,34.1,Chest Pain,No Major History,Abnormal,No
+65,Male,135,254,Normal,21.0,Chest Pain,No Major History,Abnormal,No
+54,Female,132,288,High,28.2,Shortness of Breath,Cardiac History,Reversible Defect,Yes
+61,Male,150,243,High,26.8,Fatigue,Cardiac History,Reversible Defect,Yes
+57,Female,128,303,Normal,28.6,Chest Pain,No Major History,Reversible Defect,Yes
+57,Male,150,168,Normal,18.8,Fatigue,No Major History,Reversible Defect,Yes
+64,Male,125,309,Normal,32.9,Fatigue,Cardiac History,Abnormal,No
+55,Male,132,353,Normal,33.9,Chest Pain,Cardiac History,Abnormal,No
+51,Male,125,245,High,27.8,Fatigue,No Major History,Reversible Defect,Yes
+59,Male,135,234,Normal,30.0,Chest Pain,No Major History,Abnormal,Yes
+68,Male,180,274,High,33.7,Fatigue,Cardiac History,Abnormal,No
+57,Male,154,232,Normal,30.2,Shortness of Breath,No Major History,Reversible Defect,No
+54,Male,140,239,Normal,21.0,Chest Pain,No Major History,Reversible Defect,Yes
+46,Female,142,177,Normal,28.0,Fatigue,Cardiac History,Reversible Defect,Yes
+71,Female,112,149,Normal,28.5,Chest Pain,No Major History,Reversible Defect,Yes
+35,Female,138,183,Normal,25.5,Chest Pain,No Major History,Reversible Defect,Yes
+46,Female,142,177,Normal,30.7,Fatigue,Cardiac History,Reversible Defect,Yes
+45,Female,130,234,Normal,33.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+47,Male,108,243,Normal,33.8,Fatigue,No Major History,Reversible Defect,No
+44,Female,118,242,Normal,25.9,Fatigue,No Major History,Reversible Defect,Yes
+61,Male,120,260,Normal,20.4,Chest Pain,Cardiac History,Abnormal,No
+41,Female,130,204,Normal,34.7,Shortness of Breath,No Major History,Reversible Defect,Yes
+56,Female,200,288,High,32.3,Chest Pain,Cardiac History,Abnormal,No
+55,Female,180,327,Normal,20.6,Chest Pain,Cardiac History,Reversible Defect,No
+54,Female,132,288,High,33.7,Shortness of Breath,Cardiac History,Reversible Defect,Yes
+43,Male,120,177,Normal,32.9,Chest Pain,Cardiac History,Abnormal,No
+44,Male,112,290,Normal,27.1,Chest Pain,No Major History,Reversible Defect,No
+54,Male,110,206,Normal,28.3,Chest Pain,Cardiac History,Reversible Defect,No
+44,Male,120,220,Normal,25.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+49,Male,120,188,Normal,19.4,Fatigue,No Major History,Abnormal,No
+60,Male,130,206,Normal,24.0,Chest Pain,Cardiac History,Abnormal,No
+41,Female,105,198,Normal,31.7,Shortness of Breath,No Major History,Reversible Defect,Yes
+49,Male,120,188,Normal,18.6,Fatigue,No Major History,Abnormal,No
+61,Male,148,203,Normal,24.0,Chest Pain,No Major History,Abnormal,No
+59,Male,140,177,Normal,25.1,Chest Pain,Cardiac History,Abnormal,No
+58,Male,125,220,Normal,27.4,Shortness of Breath,No Major History,Abnormal,Yes
+67,Female,152,277,Normal,33.7,Fatigue,No Major History,Reversible Defect,Yes
+61,Male,148,203,Normal,24.2,Chest Pain,No Major History,Abnormal,No
+58,Male,112,230,Normal,24.2,Fatigue,No Major History,Abnormal,No
+51,Female,130,256,Normal,30.7,Fatigue,No Major History,Reversible Defect,Yes
+62,Female,160,164,Normal,26.0,Chest Pain,No Major History,Abnormal,No
+62,Female,124,209,Normal,22.2,Chest Pain,No Major History,Reversible Defect,Yes
+59,Male,178,270,Normal,26.0,Dizziness,No Major History,Abnormal,Yes
+69,Male,160,234,High,20.8,Dizziness,No Major History,Reversible Defect,Yes
+60,Female,150,258,Normal,21.4,Chest Pain,No Major History,Abnormal,No
+65,Female,155,269,Normal,26.7,Fatigue,No Major History,Reversible Defect,Yes
+63,Female,124,197,Normal,25.4,Chest Pain,Cardiac History,Reversible Defect,No
+53,Female,138,234,Normal,33.6,Chest Pain,No Major History,Reversible Defect,Yes
+54,Female,108,267,Normal,24.5,Fatigue,No Major History,Reversible Defect,Yes
+76,Female,140,197,Normal,28.1,Fatigue,No Major History,Reversible Defect,Yes
+50,Female,120,219,Normal,28.9,Fatigue,No Major History,Reversible Defect,Yes
+52,Male,120,325,Normal,18.7,Shortness of Breath,No Major History,Reversible Defect,Yes
+46,Male,120,249,Normal,29.4,Chest Pain,No Major History,Abnormal,No
+64,Male,170,227,Normal,21.4,Dizziness,No Major History,Abnormal,Yes
+58,Male,128,259,Normal,34.4,Chest Pain,Cardiac History,Abnormal,No
+44,Male,140,235,Normal,21.0,Fatigue,No Major History,Reversible Defect,Yes
+62,Female,140,394,Normal,25.3,Chest Pain,No Major History,Reversible Defect,Yes
+59,Male,134,204,Normal,19.9,Dizziness,No Major History,Reversible Defect,No
+54,Male,125,273,Normal,34.9,Fatigue,No Major History,Reversible Defect,Yes
+48,Male,110,229,Normal,26.8,Shortness of Breath,No Major History,Abnormal,No
+70,Male,130,322,Normal,28.3,Chest Pain,No Major History,Reversible Defect,No
+67,Female,106,223,Normal,19.6,Chest Pain,No Major History,Reversible Defect,Yes
+51,Female,120,295,Normal,30.9,Fatigue,No Major History,Reversible Defect,Yes
+68,Male,118,277,Normal,22.0,Fatigue,No Major History,Abnormal,Yes
+69,Male,140,254,Normal,33.3,Fatigue,No Major History,Abnormal,No
+54,Male,122,286,Normal,21.9,Chest Pain,Cardiac History,Reversible Defect,No
+43,Female,132,341,High,21.6,Chest Pain,Cardiac History,Abnormal,No
+53,Male,130,197,High,19.1,Fatigue,No Major History,Reversible Defect,Yes
+58,Male,100,234,Normal,26.3,Chest Pain,No Major History,Abnormal,No
+67,Male,125,254,High,27.8,Chest Pain,No Major History,Abnormal,No
+59,Male,140,177,Normal,19.6,Chest Pain,Cardiac History,Abnormal,No
+48,Male,122,222,Normal,31.3,Chest Pain,No Major History,Reversible Defect,Yes
+39,Female,94,199,Normal,26.0,Fatigue,No Major History,Reversible Defect,Yes
+67,Male,120,237,Normal,27.2,Chest Pain,No Major History,Reversible Defect,No
+58,Female,130,197,Normal,25.8,Chest Pain,No Major History,Reversible Defect,Yes
+65,Female,155,269,Normal,25.1,Fatigue,No Major History,Reversible Defect,Yes
+42,Female,120,209,Normal,27.7,Fatigue,No Major History,Reversible Defect,Yes
+44,Male,112,290,Normal,21.1,Chest Pain,No Major History,Reversible Defect,No
+56,Male,132,184,Normal,21.5,Chest Pain,Cardiac History,Fixed Defect,No
+53,Female,138,234,Normal,32.7,Chest Pain,No Major History,Reversible Defect,Yes
+50,Female,110,254,Normal,34.1,Chest Pain,No Major History,Reversible Defect,Yes
+41,Male,130,214,Normal,24.7,Fatigue,No Major History,Reversible Defect,Yes
+54,Female,160,201,Normal,23.0,Fatigue,No Major History,Reversible Defect,Yes
+42,Male,120,240,High,29.1,Fatigue,No Major History,Abnormal,Yes
+54,Female,135,304,High,25.2,Fatigue,No Major History,Reversible Defect,Yes
+60,Male,145,282,Normal,18.9,Chest Pain,Cardiac History,Abnormal,No
+34,Male,118,182,Normal,21.1,Dizziness,No Major History,Reversible Defect,Yes
+44,Male,112,290,Normal,30.3,Chest Pain,No Major History,Reversible Defect,No
+60,Male,125,258,Normal,29.4,Chest Pain,Cardiac History,Abnormal,No
+43,Male,150,247,Normal,18.9,Chest Pain,No Major History,Reversible Defect,Yes
+52,Male,152,298,High,22.2,Dizziness,No Major History,Abnormal,Yes
+70,Male,130,322,Normal,22.3,Chest Pain,No Major History,Reversible Defect,No
+62,Female,140,394,Normal,29.6,Chest Pain,No Major History,Reversible Defect,Yes
+58,Male,146,218,Normal,18.8,Chest Pain,No Major History,Abnormal,No
+46,Male,101,197,High,20.2,Shortness of Breath,No Major History,Abnormal,Yes
+44,Male,140,235,Normal,31.7,Fatigue,No Major History,Reversible Defect,Yes
+55,Male,130,262,Normal,21.4,Shortness of Breath,No Major History,Reversible Defect,Yes
+43,Male,120,177,Normal,29.3,Chest Pain,Cardiac History,Abnormal,No
+55,Male,132,353,Normal,22.4,Chest Pain,Cardiac History,Abnormal,No
+40,Male,140,199,Normal,20.1,Dizziness,Cardiac History,Abnormal,Yes
+64,Male,125,309,Normal,22.5,Fatigue,Cardiac History,Abnormal,No
+59,Male,164,176,High,30.4,Chest Pain,No Major History,Fixed Defect,No
+61,Female,145,307,Normal,32.6,Chest Pain,Cardiac History,Abnormal,No
+54,Male,122,286,Normal,32.2,Chest Pain,Cardiac History,Reversible Defect,No
+74,Female,120,269,Normal,25.1,Shortness of Breath,Cardiac History,Reversible Defect,Yes
+63,Female,108,269,Normal,29.5,Chest Pain,Cardiac History,Reversible Defect,No
+70,Male,160,269,Normal,21.9,Fatigue,Cardiac History,Abnormal,No
+63,Female,108,269,Normal,23.3,Chest Pain,Cardiac History,Reversible Defect,No
+64,Male,145,212,Normal,33.3,Chest Pain,No Major History,Fixed Defect,No
+61,Male,148,203,Normal,18.7,Chest Pain,No Major History,Abnormal,No
+59,Male,140,221,Normal,19.9,Shortness of Breath,Cardiac History,Reversible Defect,Yes
+38,Male,138,175,Normal,21.9,Fatigue,No Major History,Reversible Defect,Yes
+58,Male,120,284,Normal,18.9,Shortness of Breath,No Major History,Reversible Defect,No
+63,Female,140,195,Normal,21.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+62,Female,130,263,Normal,28.1,Fatigue,No Major History,Abnormal,No
+46,Male,140,311,Normal,25.5,Chest Pain,Cardiac History,Abnormal,No
+58,Female,120,340,Normal,33.2,Fatigue,No Major History,Reversible Defect,Yes
+63,Female,140,195,Normal,32.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+47,Male,130,253,Normal,24.1,Fatigue,No Major History,Reversible Defect,Yes
+71,Female,110,265,High,22.8,Fatigue,No Major History,Reversible Defect,Yes
+66,Male,112,212,Normal,24.8,Chest Pain,Cardiac History,Reversible Defect,No
+42,Male,136,315,Normal,28.2,Chest Pain,Cardiac History,Fixed Defect,No
+64,Male,145,212,Normal,22.9,Chest Pain,No Major History,Fixed Defect,No
+55,Female,180,327,Normal,28.8,Chest Pain,Cardiac History,Reversible Defect,No
+43,Female,132,341,High,25.3,Chest Pain,Cardiac History,Abnormal,No
+55,Female,128,205,Normal,27.6,Chest Pain,Cardiac History,Abnormal,No
+58,Female,170,225,High,25.7,Chest Pain,Cardiac History,Fixed Defect,No
+55,Male,140,217,Normal,23.4,Chest Pain,Cardiac History,Abnormal,No
+51,Female,130,305,Normal,34.1,Chest Pain,Cardiac History,Abnormal,No
+50,Female,120,219,Normal,31.1,Fatigue,No Major History,Reversible Defect,Yes
+43,Male,115,303,Normal,20.8,Chest Pain,No Major History,Reversible Defect,Yes
+41,Female,126,306,Normal,32.8,Shortness of Breath,No Major History,Reversible Defect,Yes
+49,Male,130,266,Normal,26.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+65,Male,110,248,Normal,33.3,Chest Pain,No Major History,Fixed Defect,No
+57,Male,152,274,Normal,31.7,Chest Pain,Cardiac History,Abnormal,No
+48,Male,130,256,High,25.5,Chest Pain,Cardiac History,Abnormal,No
+62,Female,138,294,High,18.9,Chest Pain,No Major History,Reversible Defect,No
+61,Male,134,234,Normal,22.9,Dizziness,No Major History,Reversible Defect,No
+59,Male,178,270,Normal,27.4,Dizziness,No Major History,Abnormal,Yes
+69,Male,140,254,Normal,29.0,Fatigue,No Major History,Abnormal,No
+58,Male,132,224,Normal,22.8,Fatigue,No Major History,Abnormal,No
+38,Male,120,231,Normal,20.8,Dizziness,Cardiac History,Abnormal,No
+69,Female,140,239,Normal,32.3,Dizziness,No Major History,Reversible Defect,Yes
+65,Male,138,282,High,34.7,Dizziness,No Major History,Reversible Defect,No
+45,Male,110,264,Normal,27.2,Dizziness,No Major History,Abnormal,No
+49,Male,130,266,Normal,21.3,Shortness of Breath,No Major History,Reversible Defect,Yes
+45,Female,130,234,Normal,23.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+61,Male,138,166,Normal,18.8,Chest Pain,Cardiac History,Reversible Defect,No
+52,Male,125,212,Normal,33.6,Chest Pain,No Major History,Abnormal,No
+53,Female,130,264,Normal,20.4,Chest Pain,No Major History,Reversible Defect,Yes
+59,Female,174,249,Normal,28.0,Chest Pain,Cardiac History,Reversible Defect,No
+58,Female,120,340,Normal,23.0,Fatigue,No Major History,Reversible Defect,Yes
+65,Male,138,282,High,27.6,Dizziness,No Major History,Reversible Defect,No
+58,Female,130,197,Normal,29.2,Chest Pain,No Major History,Reversible Defect,Yes
+46,Female,138,243,Normal,32.2,Chest Pain,Cardiac History,Reversible Defect,Yes
+56,Female,134,409,Normal,21.9,Chest Pain,Cardiac History,Abnormal,No
+64,Male,128,263,Normal,18.7,Chest Pain,Cardiac History,Abnormal,Yes
+65,Male,120,177,Normal,20.8,Chest Pain,No Major History,Abnormal,Yes
+44,Male,120,226,Normal,33.4,Fatigue,No Major History,Reversible Defect,Yes
+50,Male,150,243,Normal,32.9,Chest Pain,No Major History,Abnormal,No
+47,Male,108,243,Normal,28.4,Fatigue,No Major History,Reversible Defect,No
+64,Female,130,303,Normal,28.4,Chest Pain,No Major History,Reversible Defect,Yes
+71,Female,112,149,Normal,29.5,Chest Pain,No Major History,Reversible Defect,Yes
+45,Female,130,234,Normal,21.4,Shortness of Breath,No Major History,Reversible Defect,Yes
+62,Male,120,267,Normal,33.6,Chest Pain,Cardiac History,Abnormal,No
+41,Male,120,157,Normal,25.4,Shortness of Breath,No Major History,Reversible Defect,Yes
+66,Female,150,226,Normal,24.8,Dizziness,No Major History,Reversible Defect,Yes
+56,Male,130,283,High,27.1,Chest Pain,Cardiac History,Abnormal,No
+41,Female,126,306,Normal,19.3,Shortness of Breath,No Major History,Reversible Defect,Yes
+41,Male,110,235,Normal,21.2,Shortness of Breath,No Major History,Reversible Defect,Yes
+57,Female,130,236,Normal,30.7,Shortness of Breath,No Major History,Reversible Defect,No
+39,Female,138,220,Normal,19.9,Fatigue,No Major History,Reversible Defect,Yes
+64,Male,125,309,Normal,28.5,Fatigue,Cardiac History,Abnormal,No
+59,Male,138,271,Normal,22.5,Chest Pain,No Major History,Reversible Defect,Yes
+61,Male,138,166,Normal,24.9,Chest Pain,Cardiac History,Reversible Defect,No
+58,Male,114,318,Normal,23.3,Chest Pain,No Major History,Fixed Defect,No
+47,Male,112,204,Normal,24.4,Chest Pain,No Major History,Reversible Defect,Yes
+58,Female,100,248,Normal,30.4,Chest Pain,No Major History,Reversible Defect,Yes
+66,Female,150,226,Normal,23.4,Dizziness,No Major History,Reversible Defect,Yes
+65,Female,140,417,High,27.8,Fatigue,No Major History,Reversible Defect,Yes
+35,Male,122,192,Normal,26.4,Shortness of Breath,No Major History,Reversible Defect,Yes
+57,Male,124,261,Normal,29.5,Shortness of Breath,No Major History,Abnormal,No
+29,Male,130,204,Normal,34.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+66,Male,160,246,Normal,30.6,Shortness of Breath,Cardiac History,Fixed Defect,No
+61,Female,130,330,Normal,22.0,Chest Pain,No Major History,Reversible Defect,No
+52,Male,125,212,Normal,19.0,Chest Pain,No Major History,Abnormal,No
+68,Male,118,277,Normal,22.8,Fatigue,No Major History,Abnormal,Yes
+54,Male,120,258,Normal,28.3,Fatigue,No Major History,Abnormal,Yes
+63,Male,130,330,High,19.3,Chest Pain,Cardiac History,Abnormal,No
+58,Male,100,234,Normal,26.7,Chest Pain,No Major History,Abnormal,No
+60,Male,130,253,Normal,28.3,Chest Pain,Cardiac History,Abnormal,No
+63,Male,130,254,Normal,24.0,Chest Pain,No Major History,Abnormal,No
+41,Female,112,268,Normal,31.2,Fatigue,Cardiac History,Reversible Defect,Yes
+68,Male,180,274,High,20.3,Fatigue,Cardiac History,Abnormal,No
+42,Male,120,295,Normal,19.7,Shortness of Breath,No Major History,Reversible Defect,Yes
+59,Male,170,326,Normal,30.5,Chest Pain,Cardiac History,Abnormal,No
+59,Male,164,176,High,26.7,Chest Pain,No Major History,Fixed Defect,No
+43,Male,120,177,Normal,29.9,Chest Pain,Cardiac History,Abnormal,No
+60,Male,140,185,Normal,25.7,Fatigue,No Major History,Reversible Defect,No
+63,Female,150,407,Normal,22.6,Chest Pain,No Major History,Abnormal,No
+52,Male,128,204,High,32.0,Chest Pain,Cardiac History,Normal,No
+58,Male,125,300,Normal,31.7,Chest Pain,No Major History,Abnormal,No
+56,Female,200,288,High,30.0,Chest Pain,Cardiac History,Abnormal,No
+54,Female,135,304,High,23.0,Fatigue,No Major History,Reversible Defect,Yes
+58,Male,105,240,Normal,28.2,Fatigue,Cardiac History,Abnormal,Yes
+55,Female,135,250,Normal,24.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+53,Male,140,203,High,20.0,Chest Pain,Cardiac History,Abnormal,No
+63,Female,140,195,Normal,33.6,Shortness of Breath,No Major History,Reversible Defect,Yes
+39,Male,118,219,Normal,20.8,Chest Pain,No Major History,Abnormal,No
+35,Male,126,282,Normal,34.2,Chest Pain,Cardiac History,Abnormal,No
+50,Female,120,219,Normal,25.9,Fatigue,No Major History,Reversible Defect,Yes
+67,Male,152,212,Normal,21.6,Fatigue,No Major History,Abnormal,No
+66,Male,112,212,Normal,27.4,Chest Pain,Cardiac History,Reversible Defect,No
+35,Male,126,282,Normal,32.9,Chest Pain,Cardiac History,Abnormal,No
+41,Male,130,214,Normal,30.6,Fatigue,No Major History,Reversible Defect,Yes
+35,Male,120,198,Normal,31.8,Chest Pain,Cardiac History,Abnormal,No
+71,Female,160,302,Normal,29.4,Shortness of Breath,No Major History,Reversible Defect,Yes
+57,Male,110,201,Normal,29.9,Chest Pain,Cardiac History,Fixed Defect,Yes
+51,Male,94,227,Normal,32.5,Fatigue,Cardiac History,Abnormal,Yes
+58,Male,128,216,Normal,22.6,Chest Pain,Cardiac History,Abnormal,No
+57,Male,128,229,Normal,26.6,Fatigue,No Major History,Abnormal,No
+56,Female,140,294,Normal,22.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+60,Female,120,178,High,34.8,Fatigue,No Major History,Reversible Defect,Yes
+45,Male,110,264,Normal,34.1,Dizziness,No Major History,Abnormal,No
+56,Male,130,221,Normal,19.2,Shortness of Breath,No Major History,Abnormal,Yes
+35,Male,120,198,Normal,30.1,Chest Pain,Cardiac History,Abnormal,No
+45,Female,112,160,Normal,33.8,Shortness of Breath,No Major History,Reversible Defect,Yes
+66,Female,150,226,Normal,21.5,Dizziness,No Major History,Reversible Defect,Yes
+51,Male,125,213,Normal,27.9,Dizziness,Cardiac History,Reversible Defect,Yes
+70,Male,156,245,Normal,33.6,Shortness of Breath,No Major History,Reversible Defect,Yes
+55,Female,128,205,Normal,19.1,Chest Pain,Cardiac History,Abnormal,No
+56,Male,130,256,High,30.0,Fatigue,Cardiac History,Fixed Defect,No
+55,Female,135,250,Normal,23.4,Shortness of Breath,No Major History,Reversible Defect,Yes
+52,Male,108,233,High,33.8,Chest Pain,No Major History,Abnormal,Yes
+64,Male,140,335,Normal,34.5,Fatigue,No Major History,Reversible Defect,No
+45,Male,115,260,Normal,34.1,Chest Pain,No Major History,Reversible Defect,Yes
+67,Female,152,277,Normal,26.3,Fatigue,No Major History,Reversible Defect,Yes
+68,Female,120,211,Normal,32.7,Fatigue,No Major History,Reversible Defect,Yes
+74,Female,120,269,Normal,32.4,Shortness of Breath,Cardiac History,Reversible Defect,Yes
+60,Female,150,258,Normal,23.8,Chest Pain,No Major History,Abnormal,No
+48,Male,124,274,Normal,32.2,Chest Pain,No Major History,Abnormal,No
+56,Male,130,221,Normal,19.1,Shortness of Breath,No Major History,Abnormal,Yes
+46,Male,140,311,Normal,28.3,Chest Pain,Cardiac History,Abnormal,No
+55,Female,135,250,Normal,22.3,Shortness of Breath,No Major History,Reversible Defect,Yes
+44,Male,120,220,Normal,20.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+52,Male,112,230,Normal,19.8,Chest Pain,No Major History,Reversible Defect,No
+51,Male,94,227,Normal,30.0,Fatigue,Cardiac History,Abnormal,Yes
+44,Female,108,141,Normal,24.1,Fatigue,No Major History,Reversible Defect,Yes
+52,Male,128,204,High,30.5,Chest Pain,Cardiac History,Normal,No
+50,Male,129,196,Normal,19.6,Fatigue,No Major History,Reversible Defect,Yes
+59,Male,110,239,Normal,23.7,Chest Pain,Cardiac History,Abnormal,No
+67,Male,120,229,Normal,27.4,Chest Pain,Cardiac History,Abnormal,No
+58,Male,125,300,Normal,31.5,Chest Pain,No Major History,Abnormal,No
+52,Male,128,255,Normal,23.8,Chest Pain,Cardiac History,Abnormal,No
+44,Male,140,235,Normal,28.8,Fatigue,No Major History,Reversible Defect,Yes
+41,Female,112,268,Normal,33.1,Fatigue,Cardiac History,Reversible Defect,Yes
+63,Male,130,330,High,28.7,Chest Pain,Cardiac History,Abnormal,No
+58,Male,125,220,Normal,22.3,Shortness of Breath,No Major History,Abnormal,Yes
+60,Female,102,318,Normal,18.9,Fatigue,No Major History,Reversible Defect,Yes
+51,Male,100,222,Normal,32.9,Fatigue,Cardiac History,Reversible Defect,Yes
+64,Male,140,335,Normal,18.9,Fatigue,No Major History,Reversible Defect,No
+60,Male,117,230,High,32.9,Chest Pain,Cardiac History,Abnormal,No
+44,Male,120,226,Normal,27.2,Fatigue,No Major History,Reversible Defect,Yes
+58,Male,125,220,Normal,34.0,Shortness of Breath,No Major History,Abnormal,Yes
+55,Male,130,262,Normal,31.7,Shortness of Breath,No Major History,Reversible Defect,Yes
+65,Female,160,360,Normal,35.0,Fatigue,No Major History,Reversible Defect,Yes
+48,Male,130,245,Normal,24.3,Shortness of Breath,No Major History,Reversible Defect,Yes
+65,Male,120,177,Normal,31.2,Chest Pain,No Major History,Abnormal,Yes
+51,Female,130,256,Normal,25.1,Fatigue,No Major History,Reversible Defect,Yes
+48,Male,124,255,High,26.4,Fatigue,No Major History,Reversible Defect,Yes
+64,Male,120,246,Normal,28.9,Chest Pain,Cardiac History,Reversible Defect,No
+66,Male,160,228,Normal,32.9,Chest Pain,No Major History,Fixed Defect,Yes
+46,Female,105,204,Normal,34.7,Shortness of Breath,No Major History,Reversible Defect,Yes
+61,Female,130,330,Normal,31.2,Chest Pain,No Major History,Reversible Defect,No
+57,Male,150,276,Normal,25.4,Chest Pain,Cardiac History,Fixed Defect,No
+49,Female,130,269,Normal,25.5,Chest Pain,No Major History,Reversible Defect,Yes
+56,Male,130,221,Normal,30.7,Shortness of Breath,No Major History,Abnormal,Yes
+58,Female,150,283,High,22.4,Dizziness,No Major History,Reversible Defect,Yes
+63,Male,140,187,Normal,20.3,Chest Pain,Cardiac History,Abnormal,No
+57,Male,110,335,Normal,24.4,Chest Pain,Cardiac History,Abnormal,No
+57,Male,110,335,Normal,23.2,Chest Pain,Cardiac History,Abnormal,No
+68,Male,144,193,High,23.4,Chest Pain,No Major History,Abnormal,No
+46,Male,101,197,High,22.4,Shortness of Breath,No Major History,Abnormal,Yes
+71,Female,110,265,High,19.2,Fatigue,No Major History,Reversible Defect,Yes
+41,Male,135,203,Normal,18.8,Shortness of Breath,No Major History,Fixed Defect,Yes
+45,Female,138,236,Normal,34.8,Chest Pain,Cardiac History,Reversible Defect,Yes
+62,Female,150,244,Normal,25.6,Chest Pain,Cardiac History,Reversible Defect,No
+65,Female,150,225,Normal,24.8,Chest Pain,No Major History,Abnormal,No
+48,Female,130,275,Normal,29.7,Fatigue,No Major History,Reversible Defect,Yes
+51,Male,100,222,Normal,22.1,Fatigue,Cardiac History,Reversible Defect,Yes
+61,Female,145,307,Normal,34.2,Chest Pain,Cardiac History,Abnormal,No
+53,Male,123,282,Normal,31.5,Chest Pain,Cardiac History,Abnormal,No
+59,Male,134,204,Normal,20.0,Dizziness,No Major History,Reversible Defect,No
+34,Female,118,210,Normal,25.4,Shortness of Breath,No Major History,Reversible Defect,Yes
+44,Male,120,169,Normal,33.0,Chest Pain,Cardiac History,Fixed Defect,No
+58,Male,146,218,Normal,34.1,Chest Pain,No Major History,Abnormal,No
+64,Female,130,303,Normal,26.2,Chest Pain,No Major History,Reversible Defect,Yes
+56,Male,120,240,Normal,28.6,Shortness of Breath,No Major History,Reversible Defect,Yes
+54,Male,150,232,Normal,21.3,Fatigue,No Major History,Abnormal,Yes
+55,Male,160,289,Normal,34.9,Chest Pain,Cardiac History,Abnormal,No
+67,Male,125,254,High,22.3,Chest Pain,No Major History,Abnormal,No
+51,Male,140,298,Normal,34.1,Chest Pain,Cardiac History,Abnormal,No
+62,Female,138,294,High,29.2,Chest Pain,No Major History,Reversible Defect,No
+62,Male,120,281,Normal,28.5,Shortness of Breath,No Major History,Abnormal,No
+54,Male,110,239,Normal,27.0,Chest Pain,Cardiac History,Abnormal,No
+54,Male,110,239,Normal,22.3,Chest Pain,Cardiac History,Abnormal,No
+68,Male,144,193,High,21.4,Chest Pain,No Major History,Abnormal,No
+60,Female,120,178,High,22.1,Fatigue,No Major History,Reversible Defect,Yes
+61,Male,134,234,Normal,21.6,Dizziness,No Major History,Reversible Defect,No
+62,Male,128,208,High,31.4,Shortness of Breath,No Major History,Reversible Defect,Yes
+41,Male,135,203,Normal,24.3,Shortness of Breath,No Major History,Fixed Defect,Yes
+65,Female,150,225,Normal,19.5,Chest Pain,No Major History,Abnormal,No
+59,Male,170,288,Normal,34.5,Dizziness,No Major History,Abnormal,No
+43,Male,115,303,Normal,33.1,Chest Pain,No Major History,Reversible Defect,Yes
+67,Male,120,229,Normal,33.8,Chest Pain,Cardiac History,Abnormal,No
+63,Male,145,233,High,34.9,Dizziness,No Major History,Fixed Defect,Yes
+63,Female,124,197,Normal,21.4,Chest Pain,Cardiac History,Reversible Defect,No
+52,Male,112,230,Normal,25.0,Chest Pain,No Major History,Reversible Defect,No
+58,Female,130,197,Normal,31.0,Chest Pain,No Major History,Reversible Defect,Yes
+53,Male,142,226,Normal,30.0,Chest Pain,Cardiac History,Abnormal,Yes
+57,Male,150,276,Normal,21.0,Chest Pain,Cardiac History,Fixed Defect,No
+44,Male,130,233,Normal,32.0,Fatigue,Cardiac History,Reversible Defect,Yes
+51,Male,94,227,Normal,22.2,Fatigue,Cardiac History,Abnormal,Yes
+54,Female,110,214,Normal,22.2,Fatigue,No Major History,Reversible Defect,Yes
+40,Male,110,167,Normal,27.4,Chest Pain,Cardiac History,Abnormal,No
+57,Male,124,261,Normal,28.3,Shortness of Breath,No Major History,Abnormal,No
+62,Female,140,268,Normal,28.1,Chest Pain,No Major History,Reversible Defect,No
+53,Male,140,203,High,20.0,Chest Pain,Cardiac History,Abnormal,No
+62,Male,128,208,High,33.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+58,Male,105,240,Normal,22.9,Fatigue,Cardiac History,Abnormal,Yes
+70,Male,156,245,Normal,20.6,Shortness of Breath,No Major History,Reversible Defect,Yes
+45,Male,115,260,Normal,33.2,Chest Pain,No Major History,Reversible Defect,Yes
+42,Male,148,244,Normal,34.3,Dizziness,No Major History,Reversible Defect,Yes
+58,Female,170,225,High,32.7,Chest Pain,Cardiac History,Fixed Defect,No
+61,Male,140,207,Normal,31.9,Chest Pain,Cardiac History,Abnormal,No
+62,Female,140,268,Normal,29.3,Chest Pain,No Major History,Reversible Defect,No
+60,Male,130,253,Normal,27.6,Chest Pain,Cardiac History,Abnormal,No
+54,Male,140,239,Normal,19.9,Chest Pain,No Major History,Reversible Defect,Yes
+61,Male,138,166,Normal,25.2,Chest Pain,Cardiac History,Reversible Defect,No
+63,Female,135,252,Normal,24.6,Fatigue,No Major History,Reversible Defect,Yes
+42,Male,130,180,Normal,22.8,Fatigue,No Major History,Reversible Defect,Yes
+57,Male,128,229,Normal,30.4,Fatigue,No Major History,Abnormal,No
+44,Male,130,233,Normal,26.7,Fatigue,Cardiac History,Reversible Defect,Yes
+54,Male,124,266,Normal,19.8,Chest Pain,Cardiac History,Abnormal,No
+51,Male,100,222,Normal,22.1,Fatigue,Cardiac History,Reversible Defect,Yes
+58,Male,125,220,Normal,29.8,Shortness of Breath,No Major History,Abnormal,Yes
+68,Male,118,277,Normal,19.8,Fatigue,No Major History,Abnormal,Yes
+55,Male,140,217,Normal,32.5,Chest Pain,Cardiac History,Abnormal,No
+42,Male,136,315,Normal,26.7,Chest Pain,Cardiac History,Fixed Defect,No
+49,Male,118,149,Normal,26.4,Fatigue,No Major History,Reversible Defect,No
+53,Female,138,234,Normal,28.3,Chest Pain,No Major History,Reversible Defect,Yes
+52,Male,172,199,High,32.1,Fatigue,No Major History,Abnormal,Yes
+51,Male,125,213,Normal,24.2,Dizziness,Cardiac History,Reversible Defect,Yes
+51,Male,140,261,Normal,29.7,Chest Pain,Cardiac History,Reversible Defect,Yes
+70,Male,145,174,Normal,27.8,Chest Pain,Cardiac History,Abnormal,No
+35,Female,138,183,Normal,22.9,Chest Pain,No Major History,Reversible Defect,Yes
+58,Male,112,230,Normal,33.0,Fatigue,No Major History,Abnormal,No
+59,Male,160,273,Normal,31.7,Dizziness,No Major History,Reversible Defect,No
+60,Male,140,293,Normal,29.4,Chest Pain,No Major History,Abnormal,No
+56,Male,132,184,Normal,32.5,Chest Pain,Cardiac History,Fixed Defect,No
+35,Female,138,183,Normal,32.8,Chest Pain,No Major History,Reversible Defect,Yes
+61,Male,138,166,Normal,30.2,Chest Pain,Cardiac History,Reversible Defect,No
+58,Female,150,283,High,32.3,Dizziness,No Major History,Reversible Defect,Yes
+52,Male,128,255,Normal,30.0,Chest Pain,Cardiac History,Abnormal,No
+58,Male,120,284,Normal,29.7,Shortness of Breath,No Major History,Reversible Defect,No
+37,Male,130,250,Normal,28.7,Fatigue,No Major History,Reversible Defect,Yes
+52,Male,128,255,Normal,30.9,Chest Pain,Cardiac History,Abnormal,No
+67,Male,120,229,Normal,21.1,Chest Pain,Cardiac History,Abnormal,No
+65,Male,138,282,High,33.0,Dizziness,No Major History,Reversible Defect,No
+46,Male,101,197,High,32.9,Shortness of Breath,No Major History,Abnormal,Yes
+68,Female,120,211,Normal,19.0,Fatigue,No Major History,Reversible Defect,Yes
+43,Male,115,303,Normal,32.1,Chest Pain,No Major History,Reversible Defect,Yes
+68,Female,120,211,Normal,20.6,Fatigue,No Major History,Reversible Defect,Yes
+51,Male,140,299,Normal,24.0,Chest Pain,Cardiac History,Abnormal,No
+52,Male,112,230,Normal,30.8,Chest Pain,No Major History,Reversible Defect,No
+64,Male,140,335,Normal,21.2,Fatigue,No Major History,Reversible Defect,No
+59,Male,170,288,Normal,32.0,Dizziness,No Major History,Abnormal,No
+52,Male,125,212,Normal,32.2,Chest Pain,No Major History,Abnormal,No
+59,Male,160,273,Normal,26.9,Dizziness,No Major History,Reversible Defect,No
+60,Female,150,240,Normal,18.6,Dizziness,No Major History,Reversible Defect,Yes
+41,Male,112,250,Normal,23.2,Fatigue,No Major History,Reversible Defect,Yes
+41,Male,110,235,Normal,28.7,Shortness of Breath,No Major History,Reversible Defect,Yes
+56,Male,120,240,Normal,34.7,Shortness of Breath,No Major History,Reversible Defect,Yes
+56,Male,120,236,Normal,28.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+48,Female,130,275,Normal,22.8,Fatigue,No Major History,Reversible Defect,Yes
+39,Male,140,321,Normal,29.0,Fatigue,No Major History,Reversible Defect,Yes
+64,Male,170,227,Normal,27.4,Dizziness,No Major History,Abnormal,Yes
+57,Male,140,192,Normal,31.4,Chest Pain,No Major History,Fixed Defect,Yes
+59,Male,160,273,Normal,20.3,Dizziness,No Major History,Reversible Defect,No
+60,Male,130,206,Normal,31.1,Chest Pain,Cardiac History,Abnormal,No
+61,Male,140,207,Normal,27.4,Chest Pain,Cardiac History,Abnormal,No
+43,Female,122,213,Normal,34.4,Fatigue,No Major History,Reversible Defect,Yes
+54,Male,120,188,Normal,24.1,Chest Pain,No Major History,Abnormal,No
+59,Male,138,271,Normal,28.9,Chest Pain,No Major History,Reversible Defect,Yes
+57,Male,132,207,Normal,33.9,Chest Pain,Cardiac History,Abnormal,Yes
+57,Male,154,232,Normal,20.2,Shortness of Breath,No Major History,Reversible Defect,No
+57,Male,130,131,Normal,34.0,Chest Pain,Cardiac History,Abnormal,No
+48,Male,124,274,Normal,29.9,Chest Pain,No Major History,Abnormal,No
+70,Male,145,174,Normal,19.6,Chest Pain,Cardiac History,Abnormal,No
+57,Male,165,289,High,23.5,Chest Pain,No Major History,Abnormal,No
+61,Male,120,260,Normal,30.2,Chest Pain,Cardiac History,Abnormal,No
+57,Male,110,201,Normal,19.6,Chest Pain,Cardiac History,Fixed Defect,Yes
+60,Female,150,258,Normal,28.1,Chest Pain,No Major History,Abnormal,No
+63,Female,150,407,Normal,24.2,Chest Pain,No Major History,Abnormal,No
+55,Female,128,205,Normal,28.7,Chest Pain,Cardiac History,Abnormal,No
+64,Female,180,325,Normal,19.3,Chest Pain,Cardiac History,Reversible Defect,Yes
+54,Male,110,239,Normal,32.9,Chest Pain,Cardiac History,Abnormal,No
+52,Male,128,204,High,34.6,Chest Pain,Cardiac History,Normal,No
+51,Male,140,299,Normal,34.5,Chest Pain,Cardiac History,Abnormal,No
+62,Female,130,263,Normal,30.9,Fatigue,No Major History,Abnormal,No
+59,Male,178,270,Normal,20.6,Dizziness,No Major History,Abnormal,Yes
+52,Male,134,201,Normal,31.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+42,Female,102,265,Normal,18.9,Chest Pain,No Major History,Reversible Defect,Yes
+59,Male,135,234,Normal,18.9,Chest Pain,No Major History,Abnormal,Yes
+61,Male,134,234,Normal,23.8,Dizziness,No Major History,Reversible Defect,No
+42,Female,102,265,Normal,26.6,Chest Pain,No Major History,Reversible Defect,Yes
+62,Female,140,268,Normal,31.2,Chest Pain,No Major History,Reversible Defect,No
+59,Male,126,218,High,29.8,Fatigue,No Major History,Fixed Defect,No
+55,Male,130,262,Normal,25.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+64,Male,120,246,Normal,23.0,Chest Pain,Cardiac History,Reversible Defect,No
+42,Male,140,226,Normal,35.0,Chest Pain,No Major History,Reversible Defect,Yes
+50,Female,120,244,Normal,25.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+62,Male,120,267,Normal,25.9,Chest Pain,Cardiac History,Abnormal,No
+50,Male,144,200,Normal,21.2,Chest Pain,Cardiac History,Abnormal,No
+50,Male,140,233,Normal,31.6,Fatigue,No Major History,Abnormal,No
+58,Female,136,319,High,29.9,Shortness of Breath,No Major History,Reversible Defect,No
+35,Male,120,198,Normal,22.1,Chest Pain,Cardiac History,Abnormal,No
+45,Male,104,208,Normal,19.9,Chest Pain,Cardiac History,Reversible Defect,Yes
+66,Male,112,212,Normal,29.7,Chest Pain,Cardiac History,Reversible Defect,No
+46,Male,120,249,Normal,29.3,Chest Pain,No Major History,Abnormal,No
+65,Male,135,254,Normal,23.0,Chest Pain,No Major History,Abnormal,No
+47,Male,130,253,Normal,34.2,Fatigue,No Major History,Reversible Defect,Yes
+59,Male,134,204,Normal,21.0,Dizziness,No Major History,Reversible Defect,No
+38,Male,120,231,Normal,25.6,Dizziness,Cardiac History,Abnormal,No
+39,Male,118,219,Normal,34.1,Chest Pain,No Major History,Abnormal,No
+58,Male,146,218,Normal,25.4,Chest Pain,No Major History,Abnormal,No
+44,Male,120,263,Normal,29.0,Shortness of Breath,No Major History,Abnormal,Yes
+54,Male,140,239,Normal,25.1,Chest Pain,No Major History,Reversible Defect,Yes
+61,Female,130,330,Normal,23.0,Chest Pain,No Major History,Reversible Defect,No
+57,Male,130,131,Normal,34.7,Chest Pain,Cardiac History,Abnormal,No
+54,Male,110,206,Normal,25.3,Chest Pain,Cardiac History,Reversible Defect,No
+42,Male,120,240,High,33.3,Fatigue,No Major History,Abnormal,Yes
+54,Male,124,266,Normal,22.3,Chest Pain,Cardiac History,Abnormal,No
+60,Male,130,206,Normal,22.0,Chest Pain,Cardiac History,Abnormal,No
+65,Male,135,254,Normal,19.0,Chest Pain,No Major History,Abnormal,No
+40,Male,152,223,Normal,29.3,Chest Pain,No Major History,Abnormal,No
+51,Female,140,308,Normal,24.6,Fatigue,No Major History,Reversible Defect,Yes
+38,Male,120,231,Normal,32.8,Dizziness,Cardiac History,Abnormal,No
+42,Male,130,180,Normal,26.3,Fatigue,No Major History,Reversible Defect,Yes
+56,Male,120,240,Normal,34.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+43,Male,130,315,Normal,21.6,Fatigue,No Major History,Reversible Defect,Yes
+64,Male,140,335,Normal,32.8,Fatigue,No Major History,Reversible Defect,No
+53,Male,142,226,Normal,31.3,Chest Pain,Cardiac History,Abnormal,Yes
+49,Female,134,271,Normal,31.2,Shortness of Breath,No Major History,Reversible Defect,Yes
+57,Female,140,241,Normal,32.4,Chest Pain,Cardiac History,Abnormal,No
+52,Female,136,196,Normal,31.1,Fatigue,No Major History,Reversible Defect,Yes
+69,Female,140,239,Normal,28.8,Dizziness,No Major History,Reversible Defect,Yes
+65,Male,120,177,Normal,20.7,Chest Pain,No Major History,Abnormal,Yes
+66,Female,178,228,High,19.0,Chest Pain,Cardiac History,Abnormal,No
+56,Male,120,193,Normal,33.7,Dizziness,No Major History,Abnormal,Yes
+67,Female,152,277,Normal,28.7,Fatigue,No Major History,Reversible Defect,Yes
+54,Female,160,201,Normal,31.6,Fatigue,No Major History,Reversible Defect,Yes
+70,Male,145,174,Normal,26.4,Chest Pain,Cardiac History,Abnormal,No
+57,Male,132,207,Normal,20.4,Chest Pain,Cardiac History,Abnormal,Yes
+67,Male,160,286,Normal,20.6,Chest Pain,Cardiac History,Reversible Defect,No
+62,Female,130,263,Normal,29.8,Fatigue,No Major History,Abnormal,No
+54,Female,135,304,High,25.6,Fatigue,No Major History,Reversible Defect,Yes
+45,Female,138,236,Normal,21.8,Chest Pain,Cardiac History,Reversible Defect,Yes
+53,Female,130,264,Normal,26.6,Chest Pain,No Major History,Reversible Defect,Yes
+62,Male,130,231,Normal,19.6,Fatigue,No Major History,Abnormal,Yes
+49,Female,130,269,Normal,28.1,Chest Pain,No Major History,Reversible Defect,Yes
+50,Male,140,233,Normal,22.9,Fatigue,No Major History,Abnormal,No
+65,Female,140,417,High,31.7,Fatigue,No Major History,Reversible Defect,Yes
+69,Female,140,239,Normal,23.6,Dizziness,No Major History,Reversible Defect,Yes
+52,Female,136,196,Normal,26.0,Fatigue,No Major History,Reversible Defect,Yes
+58,Female,100,248,Normal,18.7,Chest Pain,No Major History,Reversible Defect,Yes
+52,Male,108,233,High,19.7,Chest Pain,No Major History,Abnormal,Yes
+57,Female,140,241,Normal,25.0,Chest Pain,Cardiac History,Abnormal,No
+44,Female,108,141,Normal,26.4,Fatigue,No Major History,Reversible Defect,Yes
+76,Female,140,197,Normal,28.4,Fatigue,No Major History,Reversible Defect,Yes
+58,Male,128,259,Normal,23.3,Chest Pain,Cardiac History,Abnormal,No
+60,Female,120,178,High,30.0,Fatigue,No Major History,Reversible Defect,Yes
+53,Male,140,203,High,32.7,Chest Pain,Cardiac History,Abnormal,No
+52,Male,120,325,Normal,31.4,Shortness of Breath,No Major History,Reversible Defect,Yes
+38,Male,138,175,Normal,19.2,Fatigue,No Major History,Reversible Defect,Yes
+52,Male,172,199,High,26.4,Fatigue,No Major History,Abnormal,Yes
+52,Male,118,186,Normal,20.2,Dizziness,No Major History,Fixed Defect,Yes
+51,Male,125,245,High,22.5,Fatigue,No Major History,Reversible Defect,Yes
+43,Male,110,211,Normal,34.8,Chest Pain,No Major History,Abnormal,Yes
+39,Male,118,219,Normal,20.9,Chest Pain,No Major History,Abnormal,No
+63,Female,108,269,Normal,26.7,Chest Pain,Cardiac History,Reversible Defect,No
+52,Male,128,205,High,28.7,Shortness of Breath,No Major History,Reversible Defect,Yes
+44,Male,110,197,Normal,30.1,Chest Pain,No Major History,Reversible Defect,No
+45,Male,142,309,Normal,27.7,Chest Pain,Cardiac History,Abnormal,No
+57,Male,140,192,Normal,18.7,Chest Pain,No Major History,Fixed Defect,Yes
+39,Male,118,219,Normal,23.9,Chest Pain,No Major History,Abnormal,No
+67,Female,106,223,Normal,27.0,Chest Pain,No Major History,Reversible Defect,Yes
+64,Male,128,263,Normal,19.9,Chest Pain,Cardiac History,Abnormal,Yes
+59,Male,135,234,Normal,24.3,Chest Pain,No Major History,Abnormal,Yes
+62,Male,130,231,Normal,19.0,Fatigue,No Major History,Abnormal,Yes
+55,Female,180,327,Normal,19.8,Chest Pain,Cardiac History,Reversible Defect,No
+57,Male,154,232,Normal,25.0,Shortness of Breath,No Major History,Reversible Defect,No
+60,Male,140,293,Normal,20.7,Chest Pain,No Major History,Abnormal,No
+71,Female,160,302,Normal,27.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+56,Male,120,236,Normal,29.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+60,Male,117,230,High,31.7,Chest Pain,Cardiac History,Abnormal,No
+50,Female,110,254,Normal,21.8,Chest Pain,No Major History,Reversible Defect,Yes
+43,Male,132,247,High,21.3,Chest Pain,Cardiac History,Abnormal,No
+59,Male,110,239,Normal,20.2,Chest Pain,Cardiac History,Abnormal,No
+44,Male,120,263,Normal,29.0,Shortness of Breath,No Major History,Abnormal,Yes
+56,Female,134,409,Normal,30.2,Chest Pain,Cardiac History,Abnormal,No
+54,Male,120,188,Normal,19.0,Chest Pain,No Major History,Abnormal,No
+42,Male,136,315,Normal,33.9,Chest Pain,Cardiac History,Fixed Defect,No
+67,Male,125,254,High,19.4,Chest Pain,No Major History,Abnormal,No
+64,Male,145,212,Normal,27.4,Chest Pain,No Major History,Fixed Defect,No
+42,Male,140,226,Normal,30.2,Chest Pain,No Major History,Reversible Defect,Yes
+66,Male,112,212,Normal,32.9,Chest Pain,Cardiac History,Reversible Defect,No
+52,Male,108,233,High,30.3,Chest Pain,No Major History,Abnormal,Yes
+51,Female,140,308,Normal,31.7,Fatigue,No Major History,Reversible Defect,Yes
+55,Female,128,205,Normal,24.1,Chest Pain,Cardiac History,Abnormal,No
+58,Male,140,211,High,31.9,Fatigue,No Major History,Reversible Defect,Yes
+56,Male,120,193,Normal,19.8,Dizziness,No Major History,Abnormal,Yes
+42,Male,120,295,Normal,33.3,Shortness of Breath,No Major History,Reversible Defect,Yes
+40,Male,152,223,Normal,27.5,Chest Pain,No Major History,Abnormal,No
+51,Male,140,299,Normal,32.0,Chest Pain,Cardiac History,Abnormal,No
+45,Male,128,308,Normal,26.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+48,Male,110,229,Normal,29.1,Shortness of Breath,No Major History,Abnormal,No
+58,Male,114,318,Normal,27.2,Chest Pain,No Major History,Fixed Defect,No
+44,Female,108,141,Normal,30.6,Fatigue,No Major History,Reversible Defect,Yes
+58,Male,128,216,Normal,19.8,Chest Pain,Cardiac History,Abnormal,No
+65,Male,138,282,High,19.5,Dizziness,No Major History,Reversible Defect,No
+53,Male,123,282,Normal,22.6,Chest Pain,Cardiac History,Abnormal,No
+41,Male,110,172,Normal,21.1,Chest Pain,No Major History,Abnormal,No
+47,Male,112,204,Normal,32.9,Chest Pain,No Major History,Reversible Defect,Yes
+59,Male,140,221,Normal,22.1,Shortness of Breath,Cardiac History,Reversible Defect,Yes
+60,Male,125,258,Normal,34.6,Chest Pain,Cardiac History,Abnormal,No
+47,Male,110,275,Normal,24.1,Chest Pain,Cardiac History,Reversible Defect,No
+50,Female,110,254,Normal,21.5,Chest Pain,No Major History,Reversible Defect,Yes
+54,Male,120,188,Normal,31.5,Chest Pain,No Major History,Abnormal,No
+47,Male,150,226,Normal,29.4,Dizziness,Cardiac History,,Yes
+70,Male,130,322,Normal,26.7,Dizziness,No Major History,Abnormal,Yes
+67,Female,115,564,Normal,27.7,Fatigue,No Major History,,No
+57,Male,124,261,Normal,30.4,Shortness of Breath,No Major History,,Yes
+64,Male,128,263,Normal,22.3,Dizziness,Cardiac History,,No
+74,Female,120,269,Normal,34.9,Shortness of Breath,Cardiac History,Abnormal,No
+65,Male,120,177,Normal,34.6,Dizziness,No Major History,,No
+56,Male,130,256,High,29.2,Fatigue,Cardiac History,,Yes
+59,Male,110,239,Normal,21.8,Dizziness,Cardiac History,,Yes
+60,Male,140,293,Normal,29.7,Dizziness,No Major History,,Yes
+63,Female,150,407,Normal,19.7,Dizziness,No Major History,,Yes
+59,Male,135,234,Normal,19.0,Dizziness,No Major History,,No
+53,Male,142,226,Normal,22.8,Dizziness,Cardiac History,,No
+44,Male,140,235,Normal,26.1,Fatigue,No Major History,Abnormal,No
+61,Male,134,234,Normal,32.8,Chest Pain,No Major History,Abnormal,Yes
+57,Female,128,303,Normal,30.5,Dizziness,No Major History,Abnormal,No
+71,Female,112,149,Normal,30.8,Dizziness,No Major History,Abnormal,No
+46,Male,140,311,Normal,25.5,Dizziness,Cardiac History,,Yes
+53,Male,140,203,High,24.2,Dizziness,Cardiac History,,Yes
+64,Male,110,211,Normal,24.6,Chest Pain,Cardiac History,Abnormal,No
+40,Male,140,199,Normal,34.8,Chest Pain,Cardiac History,,No
+67,Male,120,229,Normal,19.2,Dizziness,Cardiac History,,Yes
+48,Male,130,245,Normal,32.8,Shortness of Breath,No Major History,Abnormal,No
+43,Male,115,303,Normal,28.0,Dizziness,No Major History,Abnormal,No
+47,Male,112,204,Normal,25.7,Dizziness,No Major History,Abnormal,No
+54,Female,132,288,High,30.5,Shortness of Breath,Cardiac History,Abnormal,No
+48,Female,130,275,Normal,26.5,Fatigue,No Major History,Abnormal,No
+46,Female,138,243,Normal,32.9,Dizziness,Cardiac History,Abnormal,No
+51,Female,120,295,Normal,33.4,Fatigue,No Major History,Abnormal,No
+58,Male,112,230,Normal,25.5,Fatigue,No Major History,,Yes
+71,Female,110,265,High,23.1,Fatigue,No Major History,Abnormal,No
+57,Male,128,229,Normal,28.3,Fatigue,No Major History,,Yes
+66,Male,160,228,Normal,33.6,Dizziness,No Major History,,No
+37,Female,120,215,Normal,22.0,Fatigue,No Major History,Abnormal,No
+59,Male,170,326,Normal,28.8,Dizziness,Cardiac History,,Yes
+50,Male,144,200,Normal,28.9,Dizziness,Cardiac History,,Yes
+48,Male,130,256,High,30.6,Dizziness,Cardiac History,,Yes
+61,Male,140,207,Normal,20.7,Dizziness,Cardiac History,,Yes
+59,Male,160,273,Normal,30.3,Chest Pain,No Major History,Abnormal,Yes
+42,Male,130,180,Normal,33.5,Fatigue,No Major History,Abnormal,No
+48,Male,122,222,Normal,21.5,Dizziness,No Major History,Abnormal,No
+40,Male,152,223,Normal,22.4,Dizziness,No Major History,,Yes
+62,Female,124,209,Normal,34.5,Dizziness,No Major History,Abnormal,No
+44,Male,130,233,Normal,21.5,Fatigue,Cardiac History,Abnormal,No
+46,Male,101,197,High,32.6,Shortness of Breath,No Major History,,No
+59,Male,126,218,High,26.6,Fatigue,No Major History,,Yes
+58,Male,140,211,High,22.6,Fatigue,No Major History,Abnormal,No
+49,Male,118,149,Normal,32.9,Fatigue,No Major History,Abnormal,Yes
+44,Male,110,197,Normal,25.8,Dizziness,No Major History,Abnormal,Yes
+66,Male,160,246,Normal,27.0,Shortness of Breath,Cardiac History,,Yes
+65,Female,150,225,Normal,24.4,Dizziness,No Major History,,Yes
+42,Male,136,315,Normal,28.3,Dizziness,Cardiac History,,Yes
+52,Male,128,205,High,21.2,Shortness of Breath,No Major History,Abnormal,No
+65,Female,140,417,High,25.0,Fatigue,No Major History,Abnormal,No
+63,Female,140,195,Normal,34.5,Shortness of Breath,No Major History,Abnormal,No
+45,Female,130,234,Normal,22.8,Shortness of Breath,No Major History,Abnormal,No
+41,Female,105,198,Normal,29.3,Shortness of Breath,No Major History,Abnormal,No
+61,Male,138,166,Normal,23.9,Dizziness,Cardiac History,Abnormal,Yes
+60,Female,120,178,High,31.3,Fatigue,No Major History,Abnormal,No
+59,Female,174,249,Normal,20.7,Dizziness,Cardiac History,Abnormal,Yes
+62,Male,120,281,Normal,34.5,Shortness of Breath,No Major History,,Yes
+57,Male,150,126,High,26.0,Fatigue,No Major History,,No
+51,Female,130,305,Normal,22.4,Dizziness,Cardiac History,,Yes
+44,Male,120,226,Normal,19.7,Fatigue,No Major History,Abnormal,No
+60,Female,150,240,Normal,21.3,Chest Pain,No Major History,Abnormal,No
+63,Male,145,233,High,27.1,Chest Pain,No Major History,,No
+57,Male,150,276,Normal,24.1,Dizziness,Cardiac History,,Yes
+51,Male,140,261,Normal,32.2,Dizziness,Cardiac History,Abnormal,No
+58,Female,136,319,High,25.6,Shortness of Breath,No Major History,Abnormal,Yes
+44,Female,118,242,Normal,22.6,Fatigue,No Major History,Abnormal,No
+47,Male,108,243,Normal,28.7,Fatigue,No Major History,Abnormal,Yes
+61,Male,120,260,Normal,30.2,Dizziness,Cardiac History,,Yes
+57,Female,120,354,Normal,21.3,Dizziness,Cardiac History,Abnormal,No
+70,Male,156,245,Normal,21.3,Shortness of Breath,No Major History,Abnormal,No
+76,Female,140,197,Normal,19.1,Fatigue,No Major History,Abnormal,No
+67,Female,106,223,Normal,30.7,Dizziness,No Major History,Abnormal,No
+45,Male,142,309,Normal,29.5,Dizziness,Cardiac History,,Yes
+45,Male,104,208,Normal,26.3,Dizziness,Cardiac History,Abnormal,No
+39,Female,94,199,Normal,32.4,Fatigue,No Major History,Abnormal,No
+42,Female,120,209,Normal,31.8,Fatigue,No Major History,Abnormal,No
+56,Male,120,236,Normal,28.2,Shortness of Breath,No Major History,Abnormal,No
+58,Male,146,218,Normal,32.8,Dizziness,No Major History,,Yes
+35,Male,120,198,Normal,21.9,Dizziness,Cardiac History,,Yes
+58,Male,150,270,Normal,20.3,Dizziness,Cardiac History,,Yes
+41,Male,130,214,Normal,23.0,Fatigue,No Major History,Abnormal,No
+57,Male,110,201,Normal,19.4,Dizziness,Cardiac History,,No
+42,Male,148,244,Normal,27.3,Chest Pain,No Major History,Abnormal,No
+62,Male,128,208,High,34.0,Shortness of Breath,No Major History,Abnormal,No
+59,Male,178,270,Normal,19.1,Chest Pain,No Major History,,No
+41,Female,126,306,Normal,20.5,Shortness of Breath,No Major History,Abnormal,No
+50,Male,150,243,Normal,26.0,Dizziness,No Major History,,Yes
+59,Male,140,221,Normal,33.9,Shortness of Breath,Cardiac History,Abnormal,No
+61,Female,130,330,Normal,23.7,Dizziness,No Major History,Abnormal,Yes
+54,Male,124,266,Normal,26.9,Dizziness,Cardiac History,,Yes
+54,Male,110,206,Normal,19.2,Dizziness,Cardiac History,Abnormal,Yes
+52,Male,125,212,Normal,20.9,Dizziness,No Major History,,Yes
+47,Male,110,275,Normal,34.8,Dizziness,Cardiac History,Abnormal,Yes
+66,Male,120,302,Normal,34.4,Dizziness,No Major History,Abnormal,No
+58,Male,100,234,Normal,18.6,Dizziness,No Major History,,Yes
+64,Female,140,313,Normal,34.2,Fatigue,No Major History,,No
+50,Female,120,244,Normal,29.0,Shortness of Breath,No Major History,Abnormal,No
+44,Female,108,141,Normal,32.8,Fatigue,No Major History,Abnormal,No
+67,Male,120,237,Normal,26.0,Dizziness,No Major History,Abnormal,Yes
+49,Female,130,269,Normal,27.0,Dizziness,No Major History,Abnormal,No
+57,Male,165,289,High,26.6,Dizziness,No Major History,,Yes
+63,Male,130,254,Normal,29.5,Dizziness,No Major History,,Yes
+48,Male,124,274,Normal,20.8,Dizziness,No Major History,,Yes
+51,Male,100,222,Normal,19.0,Fatigue,Cardiac History,Abnormal,No
+60,Female,150,258,Normal,23.6,Dizziness,No Major History,,Yes
+59,Male,140,177,Normal,30.1,Dizziness,Cardiac History,,Yes
+45,Female,112,160,Normal,21.8,Shortness of Breath,No Major History,Abnormal,No
+55,Female,180,327,Normal,29.6,Dizziness,Cardiac History,Abnormal,Yes
+41,Male,110,235,Normal,34.5,Shortness of Breath,No Major History,Abnormal,No
+60,Female,158,305,Normal,20.0,Dizziness,No Major History,Abnormal,Yes
+54,Female,135,304,High,29.6,Fatigue,No Major History,Abnormal,No
+42,Male,120,295,Normal,25.8,Shortness of Breath,No Major History,Abnormal,No
+49,Female,134,271,Normal,32.8,Shortness of Breath,No Major History,Abnormal,No
+46,Male,120,249,Normal,21.4,Dizziness,No Major History,,Yes
+56,Female,200,288,High,29.9,Dizziness,Cardiac History,,Yes
+66,Female,150,226,Normal,32.3,Chest Pain,No Major History,Abnormal,No
+56,Male,130,283,High,34.1,Dizziness,Cardiac History,,Yes
+49,Male,120,188,Normal,29.8,Fatigue,No Major History,,Yes
+54,Male,122,286,Normal,26.7,Dizziness,Cardiac History,Abnormal,Yes
+57,Male,152,274,Normal,28.7,Dizziness,Cardiac History,,Yes
+65,Female,160,360,Normal,32.8,Fatigue,No Major History,Abnormal,No
+54,Male,125,273,Normal,27.9,Fatigue,No Major History,Abnormal,No
+54,Female,160,201,Normal,19.0,Fatigue,No Major History,Abnormal,No
+62,Male,120,267,Normal,33.9,Dizziness,Cardiac History,,Yes
+52,Female,136,196,Normal,29.9,Fatigue,No Major History,Abnormal,No
+52,Male,134,201,Normal,29.7,Shortness of Breath,No Major History,Abnormal,No
+60,Male,117,230,High,22.1,Dizziness,Cardiac History,,Yes
+63,Female,108,269,Normal,29.4,Dizziness,Cardiac History,Abnormal,Yes
+66,Male,112,212,Normal,25.0,Dizziness,Cardiac History,Abnormal,Yes
+42,Male,140,226,Normal,29.2,Dizziness,No Major History,Abnormal,No
+64,Male,120,246,Normal,20.3,Dizziness,Cardiac History,Abnormal,Yes
+54,Male,150,232,Normal,29.4,Fatigue,No Major History,,No
+46,Female,142,177,Normal,35.0,Fatigue,Cardiac History,Abnormal,No
+67,Female,152,277,Normal,19.3,Fatigue,No Major History,Abnormal,No
+56,Male,125,249,High,34.6,Dizziness,Cardiac History,Abnormal,Yes
+34,Female,118,210,Normal,25.2,Shortness of Breath,No Major History,Abnormal,No
+57,Male,132,207,Normal,32.9,Dizziness,Cardiac History,,No
+64,Male,145,212,Normal,31.4,Dizziness,No Major History,,Yes
+59,Male,138,271,Normal,27.9,Dizziness,No Major History,Abnormal,No
+50,Male,140,233,Normal,30.7,Fatigue,No Major History,,Yes
+51,Male,125,213,Normal,33.0,Chest Pain,Cardiac History,Abnormal,No
+54,Male,192,283,Normal,25.2,Shortness of Breath,No Major History,,Yes
+53,Male,123,282,Normal,23.9,Dizziness,Cardiac History,,Yes
+52,Male,112,230,Normal,29.5,Dizziness,No Major History,Abnormal,Yes
+40,Male,110,167,Normal,31.8,Dizziness,Cardiac History,,Yes
+58,Male,132,224,Normal,31.1,Fatigue,No Major History,,Yes
+41,Female,112,268,Normal,31.7,Fatigue,Cardiac History,Abnormal,No
+41,Male,112,250,Normal,25.7,Fatigue,No Major History,Abnormal,No
+50,Female,120,219,Normal,32.0,Fatigue,No Major History,Abnormal,No
+54,Female,108,267,Normal,20.5,Fatigue,No Major History,Abnormal,No
+64,Female,130,303,Normal,27.5,Dizziness,No Major History,Abnormal,No
+51,Female,130,256,Normal,18.6,Fatigue,No Major History,Abnormal,No
+46,Female,105,204,Normal,23.9,Shortness of Breath,No Major History,Abnormal,No
+55,Male,140,217,Normal,24.5,Dizziness,Cardiac History,,Yes
+45,Male,128,308,Normal,25.0,Shortness of Breath,No Major History,Abnormal,No
+56,Male,120,193,Normal,30.0,Chest Pain,No Major History,,No
+66,Female,178,228,High,24.9,Dizziness,Cardiac History,,Yes
+38,Male,120,231,Normal,25.9,Chest Pain,Cardiac History,,Yes
+62,Female,150,244,Normal,22.4,Dizziness,Cardiac History,Abnormal,Yes
+55,Male,130,262,Normal,24.7,Shortness of Breath,No Major History,Abnormal,No
+58,Male,128,259,Normal,22.2,Dizziness,Cardiac History,,Yes
+43,Male,110,211,Normal,19.7,Dizziness,No Major History,,No
+64,Female,180,325,Normal,28.5,Dizziness,Cardiac History,Abnormal,No
+50,Female,110,254,Normal,29.5,Dizziness,No Major History,Abnormal,No
+53,Male,130,197,High,28.7,Fatigue,No Major History,Abnormal,No
+45,Female,138,236,Normal,26.1,Dizziness,Cardiac History,Abnormal,No
+65,Male,138,282,High,24.8,Chest Pain,No Major History,Abnormal,Yes
+69,Male,160,234,High,32.7,Chest Pain,No Major History,Abnormal,No
+69,Male,140,254,Normal,27.1,Fatigue,No Major History,,Yes
+67,Male,100,299,Normal,26.4,Dizziness,Cardiac History,Abnormal,Yes
+68,Female,120,211,Normal,18.9,Fatigue,No Major History,Abnormal,No
+34,Male,118,182,Normal,24.1,Chest Pain,No Major History,Abnormal,No
+62,Female,138,294,High,24.8,Dizziness,No Major History,Abnormal,Yes
+51,Male,140,298,Normal,25.1,Dizziness,Cardiac History,,Yes
+46,Male,150,231,Normal,28.1,Fatigue,No Major History,Abnormal,Yes
+67,Male,125,254,High,27.3,Dizziness,No Major History,,Yes
+50,Male,129,196,Normal,28.5,Fatigue,No Major History,Abnormal,No
+42,Male,120,240,High,31.1,Fatigue,No Major History,,No
+56,Female,134,409,Normal,31.9,Dizziness,Cardiac History,,Yes
+41,Male,110,172,Normal,30.3,Dizziness,No Major History,,Yes
+42,Female,102,265,Normal,34.3,Dizziness,No Major History,Abnormal,No
+53,Male,130,246,High,18.8,Fatigue,No Major History,Abnormal,No
+43,Male,130,315,Normal,21.7,Fatigue,No Major History,Abnormal,No
+56,Male,132,184,Normal,18.6,Dizziness,Cardiac History,,Yes
+52,Male,108,233,High,29.2,Dizziness,No Major History,,No
+62,Female,140,394,Normal,33.3,Dizziness,No Major History,Abnormal,No
+70,Male,160,269,Normal,22.5,Fatigue,Cardiac History,,Yes
+54,Male,140,239,Normal,33.8,Dizziness,No Major History,Abnormal,No
+70,Male,145,174,Normal,19.5,Dizziness,Cardiac History,,Yes
+54,Male,108,309,Normal,33.9,Shortness of Breath,No Major History,,No
+35,Male,126,282,Normal,24.3,Dizziness,Cardiac History,,Yes
+48,Male,124,255,High,20.2,Fatigue,No Major History,Abnormal,No
+55,Female,135,250,Normal,26.5,Shortness of Breath,No Major History,Abnormal,No
+58,Female,100,248,Normal,22.7,Dizziness,No Major History,Abnormal,No
+54,Female,110,214,Normal,23.2,Fatigue,No Major History,Abnormal,No
+69,Female,140,239,Normal,23.6,Chest Pain,No Major History,Abnormal,No
+77,Male,125,304,Normal,31.7,Dizziness,Cardiac History,Abnormal,Yes
+68,Male,118,277,Normal,27.4,Fatigue,No Major History,,No
+58,Male,125,300,Normal,23.6,Dizziness,No Major History,,Yes
+60,Male,125,258,Normal,28.6,Dizziness,Cardiac History,,Yes
+51,Male,140,299,Normal,30.3,Dizziness,Cardiac History,,Yes
+55,Male,160,289,Normal,23.0,Dizziness,Cardiac History,,Yes
+52,Male,152,298,High,25.3,Chest Pain,No Major History,,No
+60,Female,102,318,Normal,20.5,Fatigue,No Major History,Abnormal,No
+58,Male,105,240,Normal,21.5,Fatigue,Cardiac History,,No
+64,Male,125,309,Normal,29.7,Fatigue,Cardiac History,,Yes
+37,Male,130,250,Normal,21.5,Fatigue,No Major History,Abnormal,No
+59,Male,170,288,Normal,27.2,Chest Pain,No Major History,,Yes
+51,Male,125,245,High,30.2,Fatigue,No Major History,Abnormal,No
+43,Female,122,213,Normal,20.3,Fatigue,No Major History,Abnormal,No
+58,Male,128,216,Normal,27.9,Dizziness,Cardiac History,,Yes
+29,Male,130,204,Normal,22.7,Shortness of Breath,No Major History,Abnormal,No
+41,Female,130,204,Normal,34.4,Shortness of Breath,No Major History,Abnormal,No
+63,Female,135,252,Normal,26.5,Fatigue,No Major History,Abnormal,No
+51,Male,94,227,Normal,31.8,Fatigue,Cardiac History,,No
+54,Male,120,258,Normal,27.6,Fatigue,No Major History,,No
+44,Male,120,220,Normal,19.2,Shortness of Breath,No Major History,Abnormal,No
+54,Male,110,239,Normal,28.9,Dizziness,Cardiac History,,Yes
+65,Male,135,254,Normal,34.2,Dizziness,No Major History,,Yes
+57,Male,150,168,Normal,28.4,Fatigue,No Major History,Abnormal,No
+63,Male,130,330,High,32.0,Dizziness,Cardiac History,,Yes
+35,Female,138,183,Normal,33.1,Dizziness,No Major History,Abnormal,No
+41,Male,135,203,Normal,22.3,Shortness of Breath,No Major History,,No
+62,Female,130,263,Normal,22.0,Fatigue,No Major History,,Yes
+43,Female,132,341,High,28.6,Dizziness,Cardiac History,,Yes
+58,Female,150,283,High,25.3,Chest Pain,No Major History,Abnormal,No
+52,Male,118,186,Normal,32.4,Chest Pain,No Major History,,No
+61,Female,145,307,Normal,33.4,Dizziness,Cardiac History,,Yes
+39,Male,118,219,Normal,24.3,Dizziness,No Major History,,Yes
+45,Male,115,260,Normal,22.4,Dizziness,No Major History,Abnormal,No
+52,Male,128,255,Normal,31.4,Dizziness,Cardiac History,,Yes
+62,Male,130,231,Normal,23.0,Fatigue,No Major History,,No
+62,Female,160,164,Normal,32.1,Dizziness,No Major History,,Yes
+53,Female,138,234,Normal,25.5,Dizziness,No Major History,Abnormal,No
+43,Male,120,177,Normal,29.5,Dizziness,Cardiac History,,Yes
+47,Male,138,257,Normal,20.1,Fatigue,No Major History,Abnormal,No
+52,Male,120,325,Normal,28.8,Shortness of Breath,No Major History,Abnormal,No
+68,Male,180,274,High,26.0,Fatigue,Cardiac History,,Yes
+39,Male,140,321,Normal,28.2,Fatigue,No Major History,Abnormal,No
+53,Female,130,264,Normal,21.3,Dizziness,No Major History,Abnormal,No
+62,Female,140,268,Normal,30.7,Dizziness,No Major History,Abnormal,Yes
+51,Female,140,308,Normal,32.7,Fatigue,No Major History,Abnormal,No
+60,Male,130,253,Normal,22.1,Dizziness,Cardiac History,,Yes
+65,Male,110,248,Normal,20.1,Dizziness,No Major History,,Yes
+65,Female,155,269,Normal,18.9,Fatigue,No Major History,Abnormal,No
+60,Male,140,185,Normal,29.1,Fatigue,No Major History,Abnormal,Yes
+60,Male,145,282,Normal,28.5,Dizziness,Cardiac History,,Yes
+54,Male,120,188,Normal,27.5,Dizziness,No Major History,,Yes
+44,Male,130,219,Normal,22.3,Shortness of Breath,No Major History,Abnormal,No
+44,Male,112,290,Normal,24.9,Dizziness,No Major History,Abnormal,Yes
+51,Male,110,175,Normal,28.3,Fatigue,No Major History,Abnormal,No
+59,Male,150,212,High,26.7,Fatigue,No Major History,Abnormal,No
+71,Female,160,302,Normal,34.8,Shortness of Breath,No Major History,Abnormal,No
+61,Male,150,243,High,20.8,Fatigue,Cardiac History,Abnormal,No
+55,Male,132,353,Normal,30.0,Dizziness,Cardiac History,,Yes
+64,Male,140,335,Normal,25.2,Fatigue,No Major History,Abnormal,Yes
+43,Male,150,247,Normal,25.6,Dizziness,No Major History,Abnormal,No
+58,Female,120,340,Normal,30.3,Fatigue,No Major History,Abnormal,No
+60,Male,130,206,Normal,29.9,Dizziness,Cardiac History,,Yes
+58,Male,120,284,Normal,34.9,Shortness of Breath,No Major History,Abnormal,Yes
+49,Male,130,266,Normal,20.6,Shortness of Breath,No Major History,Abnormal,No
+48,Male,110,229,Normal,20.2,Shortness of Breath,No Major History,,Yes
+52,Male,172,199,High,30.5,Fatigue,No Major History,,No
+44,Male,120,263,Normal,28.0,Shortness of Breath,No Major History,,No
+56,Female,140,294,Normal,23.0,Shortness of Breath,No Major History,Abnormal,No
+57,Male,140,192,Normal,19.8,Dizziness,No Major History,,No
+67,Male,160,286,Normal,19.9,Dizziness,Cardiac History,Abnormal,Yes
+60,Male,145,233,High,33.3,Dizziness,No Major History,Fixed Defect,Yes
+35,Male,130,250,Normal,21.7,Fatigue,No Major History,Reversible Defect,Yes
+41,Female,130,204,Normal,23.8,Shortness of Breath,No Major History,Reversible Defect,Yes
+55,Male,120,236,Normal,22.2,Shortness of Breath,No Major History,Reversible Defect,Yes
+56,Female,120,354,Normal,24.4,Chest Pain,Cardiac History,Reversible Defect,Yes
+55,Male,140,192,Normal,19.6,Chest Pain,No Major History,Fixed Defect,Yes
+56,Female,140,294,Normal,27.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+44,Male,120,263,Normal,19.6,Shortness of Breath,No Major History,Abnormal,Yes
+52,Male,172,199,High,31.7,Fatigue,No Major History,Abnormal,Yes
+57,Male,150,168,Normal,22.4,Fatigue,No Major History,Reversible Defect,Yes
+54,Male,140,239,Normal,27.4,Chest Pain,No Major History,Reversible Defect,Yes
+48,Female,130,275,Normal,33.0,Fatigue,No Major History,Reversible Defect,Yes
+49,Male,130,266,Normal,29.2,Shortness of Breath,No Major History,Reversible Defect,Yes
+64,Male,110,211,Normal,27.3,Dizziness,Cardiac History,Reversible Defect,Yes
+55,Female,150,283,High,23.9,Dizziness,No Major History,Reversible Defect,Yes
+50,Female,120,219,Normal,24.0,Fatigue,No Major History,Reversible Defect,Yes
+58,Female,120,340,Normal,29.5,Fatigue,No Major History,Reversible Defect,Yes
+66,Female,150,226,Normal,34.9,Dizziness,No Major History,Reversible Defect,Yes
+40,Male,150,247,Normal,29.4,Chest Pain,No Major History,Reversible Defect,Yes
+69,Female,140,239,Normal,27.7,Dizziness,No Major History,Reversible Defect,Yes
+59,Male,135,234,Normal,30.6,Chest Pain,No Major History,Abnormal,Yes
+44,Male,130,233,Normal,26.2,Fatigue,Cardiac History,Reversible Defect,Yes
+42,Male,140,226,Normal,19.5,Chest Pain,No Major History,Reversible Defect,Yes
+61,Male,150,243,High,27.8,Fatigue,Cardiac History,Reversible Defect,Yes
+40,Male,140,199,Normal,34.3,Dizziness,Cardiac History,Abnormal,Yes
+71,Female,160,302,Normal,21.4,Shortness of Breath,No Major History,Reversible Defect,Yes
+59,Male,150,212,High,29.9,Fatigue,No Major History,Reversible Defect,Yes
+51,Male,110,175,Normal,21.8,Fatigue,No Major History,Reversible Defect,Yes
+65,Female,140,417,High,27.3,Fatigue,No Major History,Reversible Defect,Yes
+53,Male,130,197,High,20.1,Fatigue,No Major History,Reversible Defect,Yes
+41,Female,105,198,Normal,25.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+65,Male,120,177,Normal,31.0,Chest Pain,No Major History,Abnormal,Yes
+44,Male,130,219,Normal,24.2,Shortness of Breath,No Major History,Reversible Defect,Yes
+54,Male,125,273,Normal,29.5,Fatigue,No Major History,Reversible Defect,Yes
+51,Male,125,213,Normal,31.6,Dizziness,Cardiac History,Reversible Defect,Yes
+46,Female,142,177,Normal,33.8,Fatigue,Cardiac History,Reversible Defect,Yes
+54,Female,135,304,High,22.4,Fatigue,No Major History,Reversible Defect,Yes
+54,Male,150,232,Normal,25.1,Fatigue,No Major History,Abnormal,Yes
+65,Female,155,269,Normal,21.0,Fatigue,No Major History,Reversible Defect,Yes
+65,Female,160,360,Normal,34.9,Fatigue,No Major History,Reversible Defect,Yes
+51,Female,140,308,Normal,33.8,Fatigue,No Major History,Reversible Defect,Yes
+48,Male,130,245,Normal,27.4,Shortness of Breath,No Major History,Reversible Defect,Yes
+45,Male,104,208,Normal,32.4,Chest Pain,Cardiac History,Reversible Defect,Yes
+53,Female,130,264,Normal,27.1,Chest Pain,No Major History,Reversible Defect,Yes
+39,Male,140,321,Normal,28.8,Fatigue,No Major History,Reversible Defect,Yes
+52,Male,120,325,Normal,20.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+44,Male,140,235,Normal,31.0,Fatigue,No Major History,Reversible Defect,Yes
+47,Male,138,257,Normal,20.6,Fatigue,No Major History,Reversible Defect,Yes
+53,Female,128,216,Normal,32.1,Fatigue,No Major History,Normal,Yes
+53,Female,138,234,Normal,31.4,Chest Pain,No Major History,Reversible Defect,Yes
+51,Female,130,256,Normal,30.2,Fatigue,No Major History,Reversible Defect,Yes
+66,Male,120,302,Normal,19.1,Chest Pain,No Major History,Reversible Defect,Yes
+62,Male,130,231,Normal,23.5,Fatigue,No Major History,Abnormal,Yes
+44,Female,108,141,Normal,22.8,Fatigue,No Major History,Reversible Defect,Yes
+63,Female,135,252,Normal,24.4,Fatigue,No Major History,Reversible Defect,Yes
+52,Male,134,201,Normal,19.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+48,Male,122,222,Normal,34.0,Chest Pain,No Major History,Reversible Defect,Yes
+45,Male,115,260,Normal,27.6,Chest Pain,No Major History,Reversible Defect,Yes
+34,Male,118,182,Normal,23.5,Dizziness,No Major History,Reversible Defect,Yes
+57,Female,128,303,Normal,25.1,Chest Pain,No Major History,Reversible Defect,Yes
+71,Female,110,265,High,25.9,Fatigue,No Major History,Reversible Defect,Yes
+54,Male,108,309,Normal,28.4,Shortness of Breath,No Major History,Abnormal,Yes
+52,Male,118,186,Normal,27.0,Dizziness,No Major History,Fixed Defect,Yes
+41,Male,135,203,Normal,33.7,Shortness of Breath,No Major History,Fixed Defect,Yes
+58,Male,140,211,High,26.7,Fatigue,No Major History,Reversible Defect,Yes
+35,Female,138,183,Normal,34.9,Chest Pain,No Major History,Reversible Defect,Yes
+51,Male,100,222,Normal,32.5,Fatigue,Cardiac History,Reversible Defect,Yes
+45,Female,130,234,Normal,21.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+44,Male,120,220,Normal,33.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+62,Female,124,209,Normal,20.4,Chest Pain,No Major History,Reversible Defect,Yes
+54,Male,120,258,Normal,32.0,Fatigue,No Major History,Abnormal,Yes
+51,Male,94,227,Normal,24.8,Fatigue,Cardiac History,Abnormal,Yes
+29,Male,130,204,Normal,33.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+51,Male,140,261,Normal,32.8,Chest Pain,Cardiac History,Reversible Defect,Yes
+43,Female,122,213,Normal,31.8,Fatigue,No Major History,Reversible Defect,Yes
+55,Female,135,250,Normal,31.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+51,Male,125,245,High,23.5,Fatigue,No Major History,Reversible Defect,Yes
+59,Male,140,221,Normal,19.8,Shortness of Breath,Cardiac History,Reversible Defect,Yes
+52,Male,128,205,High,25.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+58,Male,105,240,Normal,21.4,Fatigue,Cardiac History,Abnormal,Yes
+41,Male,112,250,Normal,30.0,Fatigue,No Major History,Reversible Defect,Yes
+45,Male,128,308,Normal,24.2,Shortness of Breath,No Major History,Reversible Defect,Yes
+60,Female,102,318,Normal,34.6,Fatigue,No Major History,Reversible Defect,Yes
+52,Male,152,298,High,29.1,Dizziness,No Major History,Abnormal,Yes
+42,Female,102,265,Normal,32.1,Chest Pain,No Major History,Reversible Defect,Yes
+67,Female,115,564,Normal,20.7,Fatigue,No Major History,Abnormal,Yes
+68,Male,118,277,Normal,32.7,Fatigue,No Major History,Abnormal,Yes
+46,Male,101,197,High,33.7,Shortness of Breath,No Major History,Abnormal,Yes
+54,Female,110,214,Normal,26.5,Fatigue,No Major History,Reversible Defect,Yes
+58,Female,100,248,Normal,28.5,Chest Pain,No Major History,Reversible Defect,Yes
+48,Male,124,255,High,31.1,Fatigue,No Major History,Reversible Defect,Yes
+57,Male,132,207,Normal,21.4,Chest Pain,Cardiac History,Abnormal,Yes
+52,Male,138,223,Normal,26.8,Fatigue,No Major History,Reversible Defect,Yes
+54,Female,132,288,High,25.1,Shortness of Breath,Cardiac History,Reversible Defect,Yes
+45,Female,112,160,Normal,20.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+53,Male,142,226,Normal,24.6,Chest Pain,Cardiac History,Abnormal,Yes
+62,Female,140,394,Normal,19.6,Chest Pain,No Major History,Reversible Defect,Yes
+52,Male,108,233,High,18.9,Chest Pain,No Major History,Abnormal,Yes
+43,Male,130,315,Normal,20.7,Fatigue,No Major History,Reversible Defect,Yes
+53,Male,130,246,High,34.4,Fatigue,No Major History,Reversible Defect,Yes
+42,Male,148,244,Normal,27.6,Dizziness,No Major History,Reversible Defect,Yes
+59,Male,178,270,Normal,34.4,Dizziness,No Major History,Abnormal,Yes
+63,Female,140,195,Normal,25.6,Shortness of Breath,No Major History,Reversible Defect,Yes
+42,Male,120,240,High,23.6,Fatigue,No Major History,Abnormal,Yes
+50,Male,129,196,Normal,26.9,Fatigue,No Major History,Reversible Defect,Yes
+68,Female,120,211,Normal,25.8,Fatigue,No Major History,Reversible Defect,Yes
+69,Male,160,234,High,20.2,Dizziness,No Major History,Reversible Defect,Yes
+45,Female,138,236,Normal,29.1,Chest Pain,Cardiac History,Reversible Defect,Yes
+50,Female,120,244,Normal,22.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+50,Female,110,254,Normal,28.7,Chest Pain,No Major History,Reversible Defect,Yes
+64,Female,180,325,Normal,29.2,Chest Pain,Cardiac History,Reversible Defect,Yes
+57,Male,150,126,High,21.0,Fatigue,No Major History,Abnormal,Yes
+64,Female,140,313,Normal,19.5,Fatigue,No Major History,Abnormal,Yes
+43,Male,110,211,Normal,31.4,Chest Pain,No Major History,Abnormal,Yes
+55,Male,130,262,Normal,26.1,Shortness of Breath,No Major History,Reversible Defect,Yes
+37,Female,120,215,Normal,19.5,Fatigue,No Major History,Reversible Defect,Yes
+41,Male,130,214,Normal,34.9,Fatigue,No Major History,Reversible Defect,Yes
+56,Male,120,193,Normal,19.5,Dizziness,No Major History,Abnormal,Yes
+46,Female,105,204,Normal,30.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+46,Female,138,243,Normal,34.7,Chest Pain,Cardiac History,Reversible Defect,Yes
+64,Female,130,303,Normal,22.4,Chest Pain,No Major History,Reversible Defect,Yes
+59,Male,138,271,Normal,20.8,Chest Pain,No Major History,Reversible Defect,Yes
+41,Female,112,268,Normal,20.5,Fatigue,Cardiac History,Reversible Defect,Yes
+54,Female,108,267,Normal,23.5,Fatigue,No Major History,Reversible Defect,Yes
+39,Female,94,199,Normal,20.2,Fatigue,No Major History,Reversible Defect,Yes
+34,Female,118,210,Normal,29.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+47,Male,112,204,Normal,19.5,Chest Pain,No Major History,Reversible Defect,Yes
+67,Female,152,277,Normal,26.9,Fatigue,No Major History,Reversible Defect,Yes
+52,Female,136,196,Normal,34.9,Fatigue,No Major History,Reversible Defect,Yes
+74,Female,120,269,Normal,31.9,Shortness of Breath,Cardiac History,Reversible Defect,Yes
+54,Female,160,201,Normal,28.7,Fatigue,No Major History,Reversible Defect,Yes
+49,Female,134,271,Normal,23.6,Shortness of Breath,No Major History,Reversible Defect,Yes
+42,Male,120,295,Normal,28.8,Shortness of Breath,No Major History,Reversible Defect,Yes
+41,Male,110,235,Normal,27.2,Shortness of Breath,No Major History,Reversible Defect,Yes
+41,Female,126,306,Normal,25.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+49,Female,130,269,Normal,20.7,Chest Pain,No Major History,Reversible Defect,Yes
+60,Female,120,178,High,33.1,Fatigue,No Major History,Reversible Defect,Yes
+62,Male,128,208,High,25.9,Shortness of Breath,No Major History,Reversible Defect,Yes
+57,Male,110,201,Normal,21.7,Chest Pain,Cardiac History,Fixed Defect,Yes
+64,Male,128,263,Normal,24.6,Chest Pain,Cardiac History,Abnormal,Yes
+51,Female,120,295,Normal,25.3,Fatigue,No Major History,Reversible Defect,Yes
+43,Male,115,303,Normal,32.2,Chest Pain,No Major History,Reversible Defect,Yes
+42,Female,120,209,Normal,30.6,Fatigue,No Major History,Reversible Defect,Yes
+67,Female,106,223,Normal,31.2,Chest Pain,No Major History,Reversible Defect,Yes
+76,Female,140,197,Normal,18.7,Fatigue,No Major History,Reversible Defect,Yes
+70,Male,156,245,Normal,25.4,Shortness of Breath,No Major History,Reversible Defect,Yes
+44,Female,118,242,Normal,26.4,Fatigue,No Major History,Reversible Defect,Yes
+60,Female,150,240,Normal,18.8,Dizziness,No Major History,Reversible Defect,Yes
+44,Male,120,226,Normal,22.8,Fatigue,No Major History,Reversible Defect,Yes
+42,Male,130,180,Normal,31.0,Fatigue,No Major History,Reversible Defect,Yes
+66,Male,160,228,Normal,20.8,Chest Pain,No Major History,Fixed Defect,Yes
+71,Female,112,149,Normal,27.3,Chest Pain,No Major History,Reversible Defect,Yes
+64,Male,170,227,Normal,22.1,Dizziness,No Major History,Abnormal,Yes
+66,Female,146,278,Normal,18.7,Fatigue,No Major History,Reversible Defect,Yes
+39,Female,138,220,Normal,22.5,Fatigue,No Major History,Reversible Defect,Yes
+58,Female,130,197,Normal,34.6,Chest Pain,No Major History,Reversible Defect,Yes
+47,Male,130,253,Normal,31.7,Fatigue,No Major History,Reversible Defect,Yes
+35,Male,122,192,Normal,34.3,Shortness of Breath,No Major History,Reversible Defect,Yes
+58,Male,125,220,Normal,26.5,Shortness of Breath,No Major History,Abnormal,Yes
+56,Male,130,221,Normal,20.3,Shortness of Breath,No Major History,Abnormal,Yes
+56,Male,120,240,Normal,27.5,Shortness of Breath,No Major History,Reversible Defect,Yes
+55,Female,132,342,Normal,26.0,Shortness of Breath,No Major History,Reversible Defect,Yes
+41,Male,120,157,Normal,32.4,Shortness of Breath,No Major History,Reversible Defect,Yes
+38,Male,138,175,Normal,20.1,Fatigue,No Major History,Reversible Defect,Yes
+38,Male,138,175,Normal,26.6,Fatigue,No Major History,Reversible Defect,Yes
+67,Male,160,286,Normal,21.0,Chest Pain,Cardiac History,Reversible Defect,No
+67,Male,120,229,Normal,23.9,Chest Pain,Cardiac History,Abnormal,No
+62,Female,140,268,Normal,30.7,Chest Pain,No Major History,Reversible Defect,No
+63,Male,130,254,Normal,26.4,Chest Pain,No Major History,Abnormal,No
+53,Male,140,203,High,24.7,Chest Pain,Cardiac History,Abnormal,No
+56,Male,130,256,High,25.0,Fatigue,Cardiac History,Fixed Defect,No
+48,Male,110,229,Normal,26.1,Shortness of Breath,No Major History,Abnormal,No
+58,Male,120,284,Normal,31.5,Shortness of Breath,No Major History,Reversible Defect,No
+58,Male,132,224,Normal,33.2,Fatigue,No Major History,Abnormal,No
+60,Male,130,206,Normal,34.3,Chest Pain,Cardiac History,Abnormal,No
+40,Male,110,167,Normal,31.5,Chest Pain,Cardiac History,Abnormal,No
+60,Male,117,230,High,23.7,Chest Pain,Cardiac History,Abnormal,No
+64,Male,140,335,Normal,29.9,Fatigue,No Major History,Reversible Defect,No
+43,Male,120,177,Normal,25.7,Chest Pain,Cardiac History,Abnormal,No
+57,Male,150,276,Normal,22.7,Chest Pain,Cardiac History,Fixed Defect,No
+55,Male,132,353,Normal,32.4,Chest Pain,Cardiac History,Abnormal,No
+65,Female,150,225,Normal,19.1,Chest Pain,No Major History,Abnormal,No
+61,Female,130,330,Normal,33.4,Chest Pain,No Major History,Reversible Defect,No
+58,Male,112,230,Normal,26.1,Fatigue,No Major History,Abnormal,No
+50,Male,150,243,Normal,29.0,Chest Pain,No Major History,Abnormal,No
+44,Male,112,290,Normal,29.4,Chest Pain,No Major History,Reversible Defect,No
+60,Male,130,253,Normal,33.3,Chest Pain,Cardiac History,Abnormal,No
+54,Male,124,266,Normal,29.0,Chest Pain,Cardiac History,Abnormal,No
+50,Male,140,233,Normal,28.6,Fatigue,No Major History,Abnormal,No
+41,Male,110,172,Normal,19.6,Chest Pain,No Major History,Abnormal,No
+51,Female,130,305,Normal,27.1,Chest Pain,Cardiac History,Abnormal,No
+58,Male,128,216,Normal,21.0,Chest Pain,Cardiac History,Abnormal,No
+54,Male,120,188,Normal,30.7,Chest Pain,No Major History,Abnormal,No
+60,Male,145,282,Normal,27.0,Chest Pain,Cardiac History,Abnormal,No
+60,Male,140,185,Normal,29.7,Fatigue,No Major History,Reversible Defect,No
+59,Male,170,326,Normal,19.2,Chest Pain,Cardiac History,Abnormal,No
+46,Male,150,231,Normal,19.9,Fatigue,No Major History,Reversible Defect,No
+67,Male,125,254,High,30.3,Chest Pain,No Major History,Abnormal,No
+62,Male,120,267,Normal,19.7,Chest Pain,Cardiac History,Abnormal,No
+65,Male,110,248,Normal,19.7,Chest Pain,No Major History,Fixed Defect,No
+44,Male,110,197,Normal,18.7,Chest Pain,No Major History,Reversible Defect,No
+60,Male,125,258,Normal,34.3,Chest Pain,Cardiac History,Abnormal,No
+58,Male,150,270,Normal,30.7,Chest Pain,Cardiac History,Abnormal,No
+68,Male,180,274,High,24.3,Fatigue,Cardiac History,Abnormal,No
+62,Female,160,164,Normal,23.4,Chest Pain,No Major History,Abnormal,No
+52,Male,128,255,Normal,24.3,Chest Pain,Cardiac History,Abnormal,No
+59,Male,110,239,Normal,31.3,Chest Pain,Cardiac History,Abnormal,No
+60,Female,150,258,Normal,29.4,Chest Pain,No Major History,Abnormal,No
+49,Male,120,188,Normal,21.6,Fatigue,No Major History,Abnormal,No
+59,Male,140,177,Normal,21.4,Chest Pain,Cardiac History,Abnormal,No
+57,Male,128,229,Normal,20.1,Fatigue,No Major History,Abnormal,No
+61,Male,120,260,Normal,29.4,Chest Pain,Cardiac History,Abnormal,No
+39,Male,118,219,Normal,31.1,Chest Pain,No Major History,Abnormal,No
+61,Female,145,307,Normal,22.9,Chest Pain,Cardiac History,Abnormal,No
+56,Male,125,249,High,18.8,Chest Pain,Cardiac History,Reversible Defect,No
+43,Female,132,341,High,19.9,Chest Pain,Cardiac History,Abnormal,No
+54,Male,130,263,Normal,34.5,Fatigue,No Major History,Abnormal,No
+63,Male,130,330,High,23.4,Chest Pain,Cardiac History,Abnormal,No
+60,Male,135,254,Normal,31.2,Chest Pain,No Major History,Abnormal,No
+48,Male,130,256,High,28.8,Chest Pain,Cardiac History,Abnormal,No
+63,Male,150,407,Normal,24.8,Chest Pain,No Major History,Abnormal,No
+55,Male,140,217,Normal,21.9,Chest Pain,Cardiac History,Abnormal,No
+64,Male,138,282,High,20.5,Dizziness,No Major History,Reversible Defect,No
+56,Female,200,288,High,28.6,Chest Pain,Cardiac History,Abnormal,No
+50,Male,110,239,Normal,31.3,Chest Pain,Cardiac History,Abnormal,No
+70,Male,145,174,Normal,29.1,Chest Pain,Cardiac History,Abnormal,No
+62,Male,120,281,Normal,27.2,Shortness of Breath,No Major History,Abnormal,No
+35,Male,120,198,Normal,19.2,Chest Pain,Cardiac History,Abnormal,No
+59,Male,170,288,Normal,34.5,Dizziness,No Major History,Abnormal,No
+64,Male,125,309,Normal,31.7,Fatigue,Cardiac History,Abnormal,No
+47,Male,108,243,Normal,23.3,Fatigue,No Major History,Reversible Defect,No
+57,Male,165,289,High,34.7,Chest Pain,No Major History,Abnormal,No
+55,Male,160,289,Normal,28.4,Chest Pain,Cardiac History,Abnormal,No
+64,Male,120,246,Normal,28.1,Chest Pain,Cardiac History,Reversible Defect,No
+70,Male,130,322,Normal,30.8,Chest Pain,No Major History,Reversible Defect,No
+51,Male,140,299,Normal,31.9,Chest Pain,Cardiac History,Abnormal,No
+58,Female,125,300,Normal,29.3,Chest Pain,No Major History,Abnormal,No
+60,Male,140,293,Normal,20.6,Chest Pain,No Major History,Abnormal,No
+77,Female,125,304,Normal,24.1,Chest Pain,Cardiac History,Reversible Defect,No
+35,Male,126,282,Normal,33.8,Chest Pain,Cardiac History,Abnormal,No
+70,Female,160,269,Normal,22.2,Fatigue,Cardiac History,Abnormal,No
+59,Female,174,249,Normal,24.6,Chest Pain,Cardiac History,Reversible Defect,No
+64,Male,145,212,Normal,25.6,Shortness of Breath,No Major History,Fixed Defect,No
+57,Male,152,274,Normal,25.8,Chest Pain,Cardiac History,Abnormal,No
+56,Male,132,184,Normal,28.6,Shortness of Breath,Cardiac History,Fixed Defect,No
+48,Male,124,274,Normal,34.1,Chest Pain,No Major History,Abnormal,No
+56,Female,134,409,Normal,22.5,Chest Pain,Cardiac History,Abnormal,No
+66,Male,160,246,Normal,20.5,Shortness of Breath,Cardiac History,Fixed Defect,No
+54,Male,192,283,Normal,21.8,Shortness of Breath,No Major History,Abnormal,No
+69,Male,140,254,Normal,33.1,Fatigue,No Major History,Abnormal,No
+51,Male,140,298,Normal,29.2,Chest Pain,Cardiac History,Abnormal,No
+43,Female,132,247,High,23.2,Dizziness,Cardiac History,Abnormal,No
+62,Female,138,294,High,32.0,Chest Pain,No Major History,Reversible Defect,No
+67,Male,100,299,Normal,32.7,Chest Pain,Cardiac History,Reversible Defect,No
+59,Male,160,273,Normal,32.5,Dizziness,No Major History,Reversible Defect,No
+45,Male,142,309,Normal,33.7,Chest Pain,Cardiac History,Abnormal,No
+58,Male,128,259,Normal,22.7,Shortness of Breath,Cardiac History,Abnormal,No
+50,Male,144,200,Normal,31.0,Shortness of Breath,Cardiac History,Abnormal,No
+62,Female,150,244,Normal,26.1,Shortness of Breath,Cardiac History,Reversible Defect,No
+38,Male,120,231,Normal,32.4,Dizziness,Cardiac History,Abnormal,No
+66,Female,178,228,High,30.5,Chest Pain,Cardiac History,Abnormal,No
+52,Male,112,230,Normal,31.3,Chest Pain,No Major History,Reversible Defect,No
+53,Male,123,282,Normal,29.3,Chest Pain,Cardiac History,Abnormal,No
+63,Female,108,269,Normal,21.4,Chest Pain,Cardiac History,Reversible Defect,No
+54,Male,110,206,Normal,27.5,Chest Pain,Cardiac History,Reversible Defect,No
+66,Male,112,212,Normal,34.7,Chest Pain,Cardiac History,Reversible Defect,No
+55,Female,180,327,Normal,34.0,Chest Pain,Cardiac History,Reversible Defect,No
+49,Male,118,149,Normal,19.2,Fatigue,No Major History,Reversible Defect,No
+54,Male,122,286,Normal,21.2,Chest Pain,Cardiac History,Reversible Defect,No
+52,Male,130,283,High,20.7,Chest Pain,Cardiac History,Abnormal,No
+46,Male,120,249,Normal,30.5,Chest Pain,No Major History,Abnormal,No
+60,Male,134,234,Normal,32.0,Dizziness,No Major History,Reversible Defect,No
+67,Male,120,237,Normal,22.0,Chest Pain,No Major History,Reversible Defect,No
+58,Male,100,234,Normal,26.8,Chest Pain,No Major History,Abnormal,No
+45,Male,110,275,Normal,32.4,Chest Pain,Cardiac History,Reversible Defect,No
+52,Male,125,212,Normal,30.6,Chest Pain,No Major History,Abnormal,No
+58,Male,146,218,Normal,27.4,Chest Pain,No Major History,Abnormal,No
+55,Male,124,261,Normal,28.2,Shortness of Breath,No Major History,Abnormal,No
+58,Female,136,319,High,26.9,Shortness of Breath,No Major History,Reversible Defect,No
+61,Male,138,166,Normal,23.4,Chest Pain,Cardiac History,Reversible Defect,No
+42,Male,136,315,Normal,27.8,Chest Pain,Cardiac History,Fixed Defect,No
+50,Male,128,204,High,29.9,Chest Pain,Cardiac History,Normal,No
+59,Male,126,218,High,32.9,Fatigue,No Major History,Fixed Defect,No
+40,Male,152,223,Normal,29.0,Chest Pain,No Major History,Abnormal,No
+60,Male,140,207,Normal,31.1,Chest Pain,Cardiac History,Abnormal,No
+46,Male,140,311,Normal,21.1,Chest Pain,Cardiac History,Abnormal,No
+59,Male,134,204,Normal,26.1,Dizziness,No Major History,Reversible Defect,No
+54,Male,154,232,Normal,18.7,Shortness of Breath,No Major History,Reversible Defect,No
+53,Male,110,335,Normal,22.6,Chest Pain,Cardiac History,Abnormal,No
